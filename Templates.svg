@@ -1,0 +1,1013 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   sodipodi:docname="Templates.svg"
+   inkscape:version="1.0 (4035a4fb49, 2020-05-01)"
+   id="svg2063"
+   version="1.1"
+   viewBox="0 0 594 419.99999"
+   height="420mm"
+   width="594mm">
+  <defs
+     id="defs2057">
+    <marker
+       inkscape:collect="always"
+       inkscape:isstock="true"
+       style="overflow:visible"
+       id="Arrow1Lend-5-2"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="Arrow1Lend">
+      <path
+         transform="matrix(-0.8,0,0,-0.8,-10,0)"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1pt;stroke-opacity:1"
+         d="M 0,0 5,-5 -12.5,0 5,5 Z"
+         id="path4521-2-0" />
+    </marker>
+    <marker
+       inkscape:isstock="true"
+       style="overflow:visible"
+       id="marker13503"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="StopL">
+      <path
+         inkscape:connector-curvature="0"
+         transform="scale(0.8)"
+         style="fill:none;fill-opacity:0.75;fill-rule:evenodd;stroke:#000000;stroke-width:1pt;stroke-opacity:1"
+         d="M 0,5.65 V -5.65"
+         id="path13501" />
+    </marker>
+    <marker
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="EmptyDotM-6-7"
+       style="overflow:visible">
+      <path
+         id="path3328-8-0"
+         d="m -2.5,-1 c 0,2.76 -2.24,5 -5,5 -2.76,0 -5,-2.24 -5,-5 0,-2.76 2.24,-5 5,-5 2.76,0 5,2.24 5,5 z"
+         style="fill:#ffffff;fill-rule:evenodd;stroke:#000000;stroke-width:1pt;stroke-opacity:1"
+         transform="matrix(0.4,0,0,0.4,2.96,0.4)" />
+    </marker>
+  </defs>
+  <sodipodi:namedview
+     inkscape:snap-nodes="true"
+     inkscape:object-nodes="true"
+     inkscape:object-paths="true"
+     inkscape:snap-intersection-paths="true"
+     inkscape:snap-smooth-nodes="true"
+     inkscape:snap-midpoints="true"
+     units="mm"
+     fit-margin-left="10"
+     fit-margin-right="10"
+     fit-margin-bottom="10"
+     fit-margin-top="10"
+     inkscape:window-maximized="1"
+     inkscape:window-y="-8"
+     inkscape:window-x="-8"
+     inkscape:window-height="1377"
+     inkscape:window-width="2560"
+     showgrid="false"
+     inkscape:document-rotation="0"
+     inkscape:current-layer="layer1"
+     inkscape:document-units="mm"
+     inkscape:cy="362.2921"
+     inkscape:cx="220.13365"
+     inkscape:zoom="0.70710678"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     borderopacity="1.0"
+     bordercolor="#666666"
+     pagecolor="#ffffff"
+     id="base">
+    <inkscape:grid
+       originy="2.4683654"
+       originx="62.452836"
+       id="grid3651"
+       type="xygrid" />
+  </sodipodi:namedview>
+  <metadata
+     id="metadata2060">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     transform="translate(62.452838,2.4683655)"
+     id="layer1"
+     inkscape:groupmode="layer"
+     inkscape:label="Layer 1">
+    <text
+       id="text2632"
+       y="27.951918"
+       x="49.58007"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:2.82222px;line-height:1.25;font-family:'Zilla Slab Highlight';-inkscape-font-specification:'Zilla Slab Highlight Bold';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;stroke-width:0.264583"
+       xml:space="preserve"><tspan
+         id="tspan2634"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:2.82222px;font-family:'Zilla Slab Highlight';-inkscape-font-specification:'Zilla Slab Highlight Bold';text-align:center;text-anchor:middle;stroke-width:0.264583"
+         y="27.951918"
+         x="49.58007"
+         sodipodi:role="line">Helipad</tspan></text>
+    <g
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.175px;line-height:1.25;font-family:Calibri;-inkscape-font-specification:Calibri;letter-spacing:0px;word-spacing:0px;display:inline;opacity:1;fill:#000000;stroke-width:0.264583"
+       id="text1977"
+       transform="translate(222.1221,-620.90853)"
+       aria-label="H">
+      <path
+         transform="matrix(0,0.26458333,-0.26458333,0,0,0)"
+         d="m 2487.4199,644.58398 a 0.60478488,0.60478488 0 0 0 -0.033,0.002 0.60478488,0.60478488 0 0 0 -0.2363,0.0742 l -13.707,7.91406 a 0.60478488,0.60478488 0 0 0 0,1.04687 l 13.707,7.92188 a 0.60478488,0.60478488 0 0 0 0.9082,-0.52344 v -7.92187 -7.91407 a 0.60478488,0.60478488 0 0 0 -0.6387,-0.59961 z m -0.5722,1.64844 v 4.32617 c -0.01,-0.0285 -0.01,-0.0632 -0.016,-0.084 -0.016,-0.0396 -0.036,-0.0669 -0.059,-0.082 -0.023,-0.0151 -0.051,-0.0215 -0.082,-0.0215 h -7.0137 z m -7.6016,4.38672 c -7e-4,0.005 0,0.008 0,0.0137 -0.013,0.0625 -0.019,0.14065 -0.019,0.23438 0,0.10154 0.01,0.1836 0.019,0.24609 0.01,0.0625 0.02,0.11329 0.035,0.15234 0.013,0.0396 0.03,0.0669 0.053,0.082 0.024,0.0151 0.051,0.0234 0.082,0.0234 h 3.0351 v 3.45118 h -3.0351 c -0.032,0 -0.059,0.008 -0.082,0.0234 -0.023,0.0156 -0.04,0.043 -0.053,0.082 -0.015,0.0391 -0.028,0.0917 -0.035,0.15821 -0.013,0.0625 -0.019,0.14247 -0.019,0.24023 0,0.0937 0.01,0.17372 0.019,0.24024 6e-4,0.005 0,0.007 0,0.0117 l -4.291,-2.48046 z m 7.6016,0.56445 v 1.91407 1.91406 c -0.01,-0.0285 -0.01,-0.0632 -0.016,-0.084 -0.016,-0.0395 -0.036,-0.0669 -0.059,-0.082 -0.023,-0.0151 -0.051,-0.0234 -0.082,-0.0234 h -3.3633 v -3.45118 h 3.3633 c 0.032,0 0.059,-0.008 0.082,-0.0234 0.024,-0.0156 0.043,-0.043 0.059,-0.082 0.01,-0.021 0.01,-0.0542 0.016,-0.082 z m 0,4.45703 v 4.33008 l -7.1641,-4.14062 h 7.0078 c 0.032,0 0.059,-0.008 0.082,-0.0234 0.024,-0.0156 0.043,-0.043 0.059,-0.082 0.01,-0.0207 0.01,-0.0555 0.016,-0.084 z"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.175px;font-family:Calibri;-inkscape-font-specification:Calibri;fill:#000000;stroke-width:0.999999"
+         id="path1983" />
+    </g>
+    <g
+       id="g1625">
+      <path
+         d="m 109.65376,38.707042 h 0.15917 c 1.67431,0 3.03171,-1.35702 3.03184,-3.03134 v 0 c 1.3e-4,-1.67452 -1.35731,-3.03185 -3.03184,-3.03185 h -5.20641 c -1.67431,0 -3.03147,1.35753 -3.03134,3.03185 1.4e-4,1.67413 1.35721,3.03134 3.03134,3.03134 h 0.15967"
+         style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.370001;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         id="path1781" />
+      <text
+         id="text1816"
+         y="36.917969"
+         x="107.19084"
+         style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:4.23333px;line-height:1.25;font-family:Inter;-inkscape-font-specification:'Inter Medium';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;stroke-width:0.264583"
+         xml:space="preserve"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:4.23333px;font-family:Inter;-inkscape-font-specification:'Inter Medium';text-align:center;text-anchor:middle;stroke-width:0.264583"
+           y="36.917969"
+           x="107.19084"
+           id="tspan1814"
+           sodipodi:role="line">4</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:1.94028px;line-height:1.25;font-family:Inter;-inkscape-font-specification:'Inter Semi-Bold';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;display:inline;stroke-width:0.264583"
+         x="107.31641"
+         y="39.329205"
+         id="text1816-3"><tspan
+           sodipodi:role="line"
+           id="tspan1814-0"
+           x="107.31641"
+           y="39.329205"
+           style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:1.94028px;font-family:Inter;-inkscape-font-specification:'Inter Semi-Bold';text-align:center;text-anchor:middle;stroke-width:0.264583">043°</tspan></text>
+    </g>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:2.82222px;line-height:1.11;font-family:'Zilla Slab Highlight';-inkscape-font-specification:'Zilla Slab Highlight Bold';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;stroke-width:0.264583"
+       x="107.32635"
+       y="26.845922"
+       id="text2632-6"><tspan
+         sodipodi:role="line"
+         x="107.32635"
+         y="26.845922"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:2.82222px;font-family:'Zilla Slab Highlight';-inkscape-font-specification:'Zilla Slab Highlight Bold';text-align:center;text-anchor:middle;stroke-width:0.264583"
+         id="tspan2634-7">Runway heading</tspan><tspan
+         id="tspan2704"
+         sodipodi:role="line"
+         x="107.32635"
+         y="29.978586"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:2.82222px;font-family:'Zilla Slab Highlight';-inkscape-font-specification:'Zilla Slab Highlight Bold';text-align:center;text-anchor:middle;stroke-width:0.264583">indicator</tspan></text>
+    <text
+       id="text2632-6-7"
+       y="26.844292"
+       x="157.53349"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:2.82222px;line-height:1.11;font-family:'Zilla Slab Highlight';-inkscape-font-specification:'Zilla Slab Highlight Bold';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;stroke-width:0.264583"
+       xml:space="preserve"><tspan
+         id="tspan2634-7-2"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:2.82222px;font-family:'Zilla Slab Highlight';-inkscape-font-specification:'Zilla Slab Highlight Bold';text-align:center;text-anchor:middle;stroke-width:0.264583"
+         y="26.844292"
+         x="157.53349"
+         sodipodi:role="line">Runway length</tspan><tspan
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:2.82222px;font-family:'Zilla Slab Highlight';-inkscape-font-specification:'Zilla Slab Highlight Bold';text-align:center;text-anchor:middle;stroke-width:0.264583"
+         y="29.976955"
+         x="157.53349"
+         sodipodi:role="line"
+         id="tspan2704-6">indicator</tspan></text>
+    <text
+       transform="translate(68.224703,16.252976)"
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.46944444px;line-height:1.25;font-family:Inter;-inkscape-font-specification:Inter;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;white-space:pre;inline-size:44.0282;stroke-width:0.264583;"
+       x="90.641937"
+       y="27.481623"
+       id="text2632-6-0-7"><tspan
+         x="90.641937"
+         y="27.481623"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.46944px;font-family:Inter;-inkscape-font-specification:Inter;text-align:center;text-anchor:middle;stroke-width:0.264583">The feet number is alligned right, </tspan><tspan
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.46944px;font-family:Inter;-inkscape-font-specification:Inter;text-align:center;text-anchor:middle;stroke-width:0.264583">and</tspan><tspan></tspan><tspan
+           y="27.481623"> </tspan></tspan><tspan
+         x="90.641937"
+         y="30.568429"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.46944px;font-family:Inter;-inkscape-font-specification:Inter;text-align:center;text-anchor:middle;stroke-width:0.264583">the meter number is alligned </tspan><tspan
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.46944px;font-family:Inter;-inkscape-font-specification:Inter;text-align:center;text-anchor:middle;stroke-width:0.264583">left, so</tspan><tspan></tspan><tspan
+           y="30.568429"> </tspan></tspan><tspan
+         x="90.641937"
+         y="33.655234"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.46944px;font-family:Inter;-inkscape-font-specification:Inter;text-align:center;text-anchor:middle;stroke-width:0.264583">you can just edit the </tspan><tspan
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.46944px;font-family:Inter;-inkscape-font-specification:Inter;text-align:center;text-anchor:middle;stroke-width:0.264583">numbers</tspan><tspan></tspan><tspan
+           y="33.655234"> </tspan></tspan><tspan
+         x="90.641937"
+         y="36.742042"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.46944px;font-family:Inter;-inkscape-font-specification:Inter;text-align:center;text-anchor:middle;stroke-width:0.264583">without</tspan><tspan
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.46944px;font-family:Inter;-inkscape-font-specification:Inter"> </tspan><tspan
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.46944px;font-family:Inter;-inkscape-font-specification:Inter;text-align:center;text-anchor:middle;stroke-width:0.264583">worrying about </tspan><tspan
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.46944px;font-family:Inter;-inkscape-font-specification:Inter;text-align:center;text-anchor:middle;stroke-width:0.264583">allignment.</tspan></tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:2.82222px;line-height:0.7;font-family:'Zilla Slab Highlight';-inkscape-font-specification:'Zilla Slab Highlight Bold';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;stroke-width:0.264583"
+       x="23.590885"
+       y="104.6322"
+       id="text2632-6-7-0"><tspan
+         id="tspan2704-6-0"
+         sodipodi:role="line"
+         x="23.590885"
+         y="104.6322"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:2.82222px;font-family:'Zilla Slab Highlight';-inkscape-font-specification:'Zilla Slab Highlight Bold';text-align:center;text-anchor:middle;stroke-width:0.264583">Hotspot info box</tspan></text>
+    <g
+       id="g1789">
+      <rect
+         style="display:inline;fill:none;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:0.4;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         id="rect1876"
+         width="61.208008"
+         height="42.812057"
+         x="-7.2736716"
+         y="108.70377"
+         ry="0" />
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:2.99861px;line-height:1.15;font-family:Metropolis;-inkscape-font-specification:'Metropolis Medium';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;display:inline;stroke-width:0.264583"
+         x="23.281862"
+         y="112.15628"
+         id="text3466-3-2"><tspan
+           id="tspan2032-0"
+           sodipodi:role="line"
+           x="23.281862"
+           y="112.15628"
+           style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:2.99861px;font-family:Metropolis;-inkscape-font-specification:'Metropolis Medium';text-align:center;text-anchor:middle;stroke-width:0.264583">HOT SPOT</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:2.99861px;line-height:1.15;font-family:Metropolis;-inkscape-font-specification:'Metropolis Medium';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;display:inline;stroke-width:0.264583"
+         x="23.292265"
+         y="123.18567"
+         id="text3466-3-9"><tspan
+           sodipodi:role="line"
+           x="23.292265"
+           y="123.18567"
+           style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:2.99861px;font-family:Metropolis;-inkscape-font-specification:'Metropolis Medium';text-align:center;text-anchor:middle;stroke-width:0.264583"
+           id="tspan2254">For information only,</tspan><tspan
+           sodipodi:role="line"
+           x="23.292265"
+           y="126.63407"
+           style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:2.99861px;font-family:Metropolis;-inkscape-font-specification:'Metropolis Medium';text-align:center;text-anchor:middle;stroke-width:0.264583"
+           id="tspan2258">not to be construed as</tspan><tspan
+           sodipodi:role="line"
+           x="23.292265"
+           y="130.08247"
+           style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:2.99861px;font-family:Metropolis;-inkscape-font-specification:'Metropolis Medium';text-align:center;text-anchor:middle;stroke-width:0.264583"
+           id="tspan1686">ATC instructions.</tspan></text>
+      <rect
+         style="display:inline;fill:none;fill-opacity:1;fill-rule:nonzero;stroke:#ad005b;stroke-width:0.3;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         id="rect1902-0-4-4-5"
+         width="6.4696817"
+         height="3.8520765"
+         x="-5.857656"
+         y="133.57254" />
+      <text
+         transform="translate(277.41384,77.9021)"
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:2.99861px;line-height:1.15;font-family:Metropolis;-inkscape-font-specification:'Metropolis Medium';letter-spacing:0px;word-spacing:0px;white-space:pre;inline-size:46.7446;display:inline;stroke-width:0.264583"
+         x="-274.05939"
+         y="57.701035"
+         id="text3466-3-4"><tspan
+           x="-274.05939"
+           y="57.701035"><tspan
+             style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:2.99861px;font-family:Metropolis;-inkscape-font-specification:'Metropolis Medium';stroke-width:0.264583">Converging taxiways. Potential </tspan></tspan><tspan
+           x="-274.05939"
+           y="61.149436"><tspan
+             style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:2.99861px;font-family:Metropolis;-inkscape-font-specification:'Metropolis Medium';stroke-width:0.264583">for RWY incursion. Pay attention </tspan></tspan><tspan
+           x="-274.05939"
+           y="64.597839"><tspan
+             style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:2.99861px;font-family:Metropolis;-inkscape-font-specification:'Metropolis Medium';stroke-width:0.264583">to signage and ATC instruction. </tspan></tspan><tspan
+           x="-274.05939"
+           y="68.046237"><tspan
+             style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:2.99861px;font-family:Metropolis;-inkscape-font-specification:'Metropolis Medium';stroke-width:0.264583">Pilots must ensure wingtip </tspan></tspan><tspan
+           x="-274.05939"
+           y="71.49464"><tspan
+             style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:2.99861px;font-family:Metropolis;-inkscape-font-specification:'Metropolis Medium';stroke-width:0.264583">clearance.</tspan></tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:2.82222px;line-height:1.25;font-family:Inter;-inkscape-font-specification:'Inter Bold';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;display:inline;fill:#ad005b;fill-opacity:1;stroke-width:0.264583"
+         x="-2.6365955"
+         y="136.52434"
+         id="text1874"><tspan
+           sodipodi:role="line"
+           id="tspan1872"
+           x="-2.6365955"
+           y="136.52434"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:2.82222px;font-family:Inter;-inkscape-font-specification:'Inter Bold';text-align:center;text-anchor:middle;fill:#ad005b;fill-opacity:1;stroke-width:0.264583">HS1</tspan></text>
+      <rect
+         y="115.11777"
+         x="12.931393"
+         height="3.7859325"
+         width="7.2799721"
+         id="rect1902-0-4-4"
+         style="display:inline;fill:none;fill-opacity:1;fill-rule:nonzero;stroke:#ad005b;stroke-width:0.3;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+      <path
+         style="display:inline;fill:none;stroke:#ad005b;stroke-width:0.3;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         d="m 20.211372,117.01074 h 6.44333"
+         id="path2179"
+         sodipodi:nodetypes="cc" />
+      <circle
+         style="display:inline;fill:none;fill-opacity:1;fill-rule:nonzero;stroke:#ad005b;stroke-width:0.3;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         id="path2181"
+         cx="30.191982"
+         cy="117.01073"
+         r="3.5372891" />
+      <text
+         id="text1874-8"
+         y="118.03649"
+         x="16.537554"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:2.82222px;line-height:1.25;font-family:Inter;-inkscape-font-specification:'Inter Bold';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;display:inline;fill:#ad005b;fill-opacity:1;stroke-width:0.264583"
+         xml:space="preserve"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:2.82222px;font-family:Inter;-inkscape-font-specification:'Inter Bold';text-align:center;text-anchor:middle;fill:#ad005b;fill-opacity:1;stroke-width:0.264583"
+           y="118.03649"
+           x="16.537554"
+           id="tspan1872-4"
+           sodipodi:role="line">HS</tspan></text>
+    </g>
+    <text
+       transform="translate(-131.55235,99.240164)"
+       id="text2632-6-0-7-6"
+       y="58.762104"
+       x="155.05766"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.46944444px;line-height:1.25;font-family:Inter;-inkscape-font-specification:Inter;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;white-space:pre;inline-size:52.6695;stroke-width:0.264583;"
+       xml:space="preserve"><tspan
+         x="155.05766"
+         y="58.762104"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.46944px;font-family:Inter;-inkscape-font-specification:Inter;text-align:center;text-anchor:middle;stroke-width:0.264583">The box height can be increased to make</tspan><tspan></tspan><tspan
+           y="58.762104"> </tspan></tspan><tspan
+         x="155.05766"
+         y="61.84891"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.46944px;font-family:Inter;-inkscape-font-specification:Inter;text-align:center;text-anchor:middle;stroke-width:0.264583">space for more hotspot </tspan><tspan
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.46944px;font-family:Inter;-inkscape-font-specification:Inter;text-align:center;text-anchor:middle;stroke-width:0.264583">information.</tspan></tspan></text>
+    <path
+       d="m 30.392087,34.795133 -2.421557,-0.66197 -0.0801,0.28887 2.423623,0.66249 z m -0.06615,-1.40249 -0.04289,-0.29663 -2.646868,0.38086 0.04341,0.29714 z m -0.7953,2.68407 -2.099096,-1.28933 -0.158647,0.2558 2.099614,1.28933 z m -2.394167,-1.89291 c -0.0023,-0.0709 -0.01721,-0.14055 -0.04909,-0.20671 -0.03189,-0.0661 -0.08959,-0.14129 -0.191203,-0.16019 l -2.0314,-0.37879 c -0.0027,-5.9e-4 -0.0055,-0.001 -0.0083,-0.002 l -0.02481,-0.005 -5.03e-4,0.002 c -0.03187,-0.005 -0.06395,-0.01 -0.09715,-0.01 -0.348996,0 -0.63459,0.28766 -0.634587,0.63665 0,0.0582 0.01045,0.11376 0.02532,0.16743 l -0.0021,5.21e-4 0.628901,2.26188 0.288872,-0.0801 -0.484724,-1.74408 c 0.05695,0.0169 0.116054,0.0289 0.178284,0.0289 0.02915,0 0.05713,-0.005 0.08526,-0.009 l 5.29e-4,0.003 0.03979,-0.007 h 0.0021 c 3.71e-4,-8e-5 6.62e-4,-4.39e-4 0.001,-5.21e-4 l 0.410275,-0.0723 c 0.183677,-0.0325 0.363175,-0.0461 0.552937,-0.0486 l 1.046964,-0.014 c 0.101569,-0.004 0.187267,-0.0794 0.222211,-0.15038 0.03494,-0.071 0.04364,-0.14202 0.04134,-0.21291 z m -0.300757,0.01 c 8.47e-4,0.0261 -0.0041,0.0419 -0.0078,0.0548 l -1.006139,0.0134 c -0.166917,0.002 -0.33266,0.0145 -0.501261,0.0382 0.03043,-0.074 0.04806,-0.15465 0.04806,-0.23926 0,-0.0817 -0.01698,-0.15939 -0.04548,-0.23151 l 1.494999,0.27854 c 0.0081,0.0168 0.01648,0.0522 0.01757,0.0858 z m -1.765785,-0.13281 c -2e-6,0.16142 -0.111257,0.29267 -0.261998,0.32556 l -0.01447,0.003 c -0.0193,0.003 -0.03908,0.006 -0.05943,0.006 -0.149513,0 -0.273169,-0.0945 -0.317294,-0.22789 l -0.0052,-0.0181 h -5.29e-4 c -0.0075,-0.028 -0.01292,-0.0572 -0.01292,-0.0879 -3e-6,-0.18686 0.149031,-0.33589 0.335896,-0.33589 0.02159,0 0.04264,0.002 0.06304,0.006 l 0.0088,0.002 c 0.151823,0.0325 0.26407,0.16598 0.264067,0.32815 z"
+       style="color:#000000;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:medium;line-height:normal;font-family:sans-serif;font-variant-ligatures:normal;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-alternates:normal;font-variant-east-asian:normal;font-feature-settings:normal;font-variation-settings:normal;text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:normal;word-spacing:normal;text-transform:none;writing-mode:lr-tb;direction:ltr;text-orientation:mixed;dominant-baseline:auto;baseline-shift:baseline;text-anchor:start;white-space:normal;shape-padding:0;shape-margin:0;inline-size:0;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;vector-effect:none;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.3;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate;stop-color:#000000;stop-opacity:1"
+       id="path1536" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:2.82222px;line-height:1.25;font-family:'Zilla Slab Highlight';-inkscape-font-specification:'Zilla Slab Highlight Bold';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;stroke-width:0.264583"
+       x="26.388592"
+       y="27.906458"
+       id="text2632-9"><tspan
+         sodipodi:role="line"
+         x="26.388592"
+         y="27.906458"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:2.82222px;font-family:'Zilla Slab Highlight';-inkscape-font-specification:'Zilla Slab Highlight Bold';text-align:center;text-anchor:middle;stroke-width:0.264583"
+         id="tspan2634-9">Wind sock</tspan></text>
+    <path
+       sodipodi:nodetypes="cc"
+       id="path4516-4-5"
+       d="M 17.81933,75.890771 5.4894887,72.190831"
+       style="display:inline;opacity:1;fill:none;stroke:#000000;stroke-width:0.15;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#Arrow1Lend-5-2)" />
+    <text
+       id="text2632-9-9"
+       y="63.99992"
+       x="11.286986"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:2.82222px;line-height:1.25;font-family:'Zilla Slab Highlight';-inkscape-font-specification:'Zilla Slab Highlight Bold';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;stroke-width:0.264583"
+       xml:space="preserve"><tspan
+         id="tspan2634-9-6"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:2.82222px;font-family:'Zilla Slab Highlight';-inkscape-font-specification:'Zilla Slab Highlight Bold';text-align:center;text-anchor:middle;stroke-width:0.264583"
+         y="63.99992"
+         x="11.286986"
+         sodipodi:role="line">Generic arrow</tspan></text>
+    <g
+       id="g1231">
+      <circle
+         style="display:inline;fill:none;stroke:#ad005b;stroke-width:0.3;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         id="path4284"
+         r="10.316529"
+         cy="-75.698128"
+         cx="81.086632"
+         transform="rotate(90)" />
+      <path
+         sodipodi:nodetypes="cc"
+         id="path1878-9"
+         d="m 82.427667,73.267164 3.994071,-1.74542"
+         style="display:inline;fill:none;stroke:#ad005b;stroke-width:0.3;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:2.82222px;line-height:1.25;font-family:Inter;-inkscape-font-specification:'Inter Bold';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;display:inline;fill:#ad005b;fill-opacity:1;stroke-width:0.264999;stroke-miterlimit:4;stroke-dasharray:none"
+         x="89.674896"
+         y="72.547516"
+         id="text3490-5-3-5-7"><tspan
+           sodipodi:role="line"
+           id="tspan3488-3-9-8-8"
+           x="89.674896"
+           y="72.547516"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:2.82222px;font-family:Inter;-inkscape-font-specification:'Inter Bold';text-align:center;text-anchor:middle;fill:#ad005b;fill-opacity:1;stroke-width:0.264999;stroke-miterlimit:4;stroke-dasharray:none">HS1</tspan></text>
+      <rect
+         y="69.644218"
+         x="86.421738"
+         height="3.7550786"
+         width="6.3604894"
+         id="rect1902-0-8"
+         style="display:inline;fill:none;fill-opacity:1;fill-rule:nonzero;stroke:#ad005b;stroke-width:0.3;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+    </g>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:2.82222px;line-height:1.25;font-family:'Zilla Slab Highlight';-inkscape-font-specification:'Zilla Slab Highlight Bold';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;stroke-width:0.264583"
+       x="75.088707"
+       y="63.087887"
+       id="text2632-9-9-8"><tspan
+         sodipodi:role="line"
+         x="75.088707"
+         y="63.087887"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:2.82222px;font-family:'Zilla Slab Highlight';-inkscape-font-specification:'Zilla Slab Highlight Bold';text-align:center;text-anchor:middle;stroke-width:0.264583"
+         id="tspan2634-9-6-0">Hotspot circle</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.82223px;line-height:1.25;font-family:Calibri;-inkscape-font-specification:Calibri;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;stroke-width:0.264583"
+       x="7.8121042"
+       y="86.475182"
+       id="text2632-6-0-8"><tspan
+         id="tspan3293"
+         sodipodi:role="line"
+         x="7.8121042"
+         y="86.475182"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.82223px;font-family:Calibri;-inkscape-font-specification:Calibri;text-align:center;text-anchor:middle;stroke-width:0.264583" /></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:2.82222px;line-height:1.25;font-family:'Zilla Slab Highlight';-inkscape-font-specification:'Zilla Slab Highlight Bold';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;stroke-width:0.264583"
+       x="37.60191"
+       y="64.461349"
+       id="text2632-9-9-7"><tspan
+         sodipodi:role="line"
+         x="37.60191"
+         y="64.461349"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:2.82222px;font-family:'Zilla Slab Highlight';-inkscape-font-specification:'Zilla Slab Highlight Bold';text-align:center;text-anchor:middle;stroke-width:0.264583"
+         id="tspan2634-9-6-1">North arrow</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:3.52778px;line-height:0.75;font-family:'Zilla Slab';-inkscape-font-specification:'Zilla Slab Semi-Bold';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;display:inline;opacity:1;stroke-width:0.264583"
+       x="163.10736"
+       y="69.49897"
+       id="text4487-3-8-3-6"><tspan
+         id="tspan3389"
+         sodipodi:role="line"
+         x="163.10736"
+         y="69.49897"
+         style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:3.52778px;font-family:'Zilla Slab';-inkscape-font-specification:'Zilla Slab Semi-Bold';text-align:center;text-anchor:middle;stroke-width:0.264583">SAMPLE</tspan><tspan
+         id="tspan3393"
+         sodipodi:role="line"
+         x="163.10736"
+         y="72.144806"
+         style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:3.52778px;font-family:'Zilla Slab';-inkscape-font-specification:'Zilla Slab Semi-Bold';text-align:center;text-anchor:middle;stroke-width:0.264583">TEXT</tspan></text>
+    <text
+       id="text2632-9-9-7-3"
+       y="64.415733"
+       x="163.07707"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:2.82222px;line-height:1.25;font-family:'Zilla Slab Highlight';-inkscape-font-specification:'Zilla Slab Highlight Bold';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;stroke-width:0.264583"
+       xml:space="preserve"><tspan
+         id="tspan2634-9-6-1-6"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:2.82222px;font-family:'Zilla Slab Highlight';-inkscape-font-specification:'Zilla Slab Highlight Bold';text-align:center;text-anchor:middle;stroke-width:0.264583"
+         y="64.415733"
+         x="163.07707"
+         sodipodi:role="line">Zilla label</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:2.82222px;line-height:1.25;font-family:'Zilla Slab Highlight';-inkscape-font-specification:'Zilla Slab Highlight Bold';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;stroke-width:0.264583"
+       x="116.62416"
+       y="64.858315"
+       id="text2632-9-9-7-3-5"><tspan
+         sodipodi:role="line"
+         x="116.62416"
+         y="64.858315"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:2.82222px;font-family:'Zilla Slab Highlight';-inkscape-font-specification:'Zilla Slab Highlight Bold';text-align:center;text-anchor:middle;stroke-width:0.264583"
+         id="tspan2634-9-6-1-6-9">Metro label</tspan></text>
+    <text
+       id="text4425-5-8-4-1-4-0-1-5"
+       y="70.019272"
+       x="116.26654"
+       style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:3.175px;line-height:1.1;font-family:Metropolis;-inkscape-font-specification:'Metropolis Medium';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;display:inline;opacity:1;stroke-width:0.264583;"
+       xml:space="preserve"><tspan
+         rotate="0 0 0 0 0"
+         id="tspan3999-4"
+         style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-family:Metropolis;-inkscape-font-specification:'Metropolis Medium';text-align:center;text-anchor:middle;stroke-width:0.264583;font-size:3.175px;"
+         y="70.019272"
+         x="116.26654"
+         sodipodi:role="line">Sample</tspan><tspan
+         id="tspan3438"
+         style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-family:Metropolis;-inkscape-font-specification:'Metropolis Medium';text-align:center;text-anchor:middle;stroke-width:0.264583;font-size:3.175px;"
+         y="73.123711"
+         x="116.26654"
+         sodipodi:role="line">Text</tspan></text>
+    <text
+       transform="translate(26.26162,56.155352)"
+       id="text2632-6-0-7-5"
+       y="27.481623"
+       x="90.641937"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.46944px;line-height:1.25;font-family:Inter;-inkscape-font-specification:Inter;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;white-space:pre;inline-size:44.0282;stroke-width:0.264583"
+       xml:space="preserve"><tspan
+         x="90.641937"
+         y="27.481623"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.46944px;font-family:Inter;-inkscape-font-specification:Inter">Generally used for taxiways, parking</tspan><tspan></tspan><tspan
+           y="27.481623"> </tspan></tspan><tspan
+         x="90.641937"
+         y="30.568423"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.46944px;font-family:Inter;-inkscape-font-specification:Inter">numbers, and most labels.</tspan></tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.46944px;line-height:1.25;font-family:Inter;-inkscape-font-specification:Inter;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;white-space:pre;inline-size:44.0282;stroke-width:0.264583"
+       x="90.641937"
+       y="27.481623"
+       id="text2632-6-0-7-5-0"
+       transform="translate(73.317926,56.856623)"><tspan
+         x="90.641937"
+         y="27.481623"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.46944px;font-family:Inter;-inkscape-font-specification:Inter">Generally used for apron labels.</tspan></tspan></text>
+    <path
+       inkscape:connector-curvature="0"
+       id="path828"
+       d="m 55.635229,142.52683 4.66349,9.56515 43.291491,-21.82905 -10.934611,-21.85516 -8.66533,4.44689 6.23248,12.59441 z"
+       style="display:inline;opacity:1;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:2.82222px;line-height:1.25;font-family:'Zilla Slab Highlight';-inkscape-font-specification:'Zilla Slab Highlight Bold';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;stroke-width:0.264583"
+       x="77.61499"
+       y="104.10934"
+       id="text2632-9-9-7-3-0"><tspan
+         sodipodi:role="line"
+         x="77.61499"
+         y="104.10934"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:2.82222px;font-family:'Zilla Slab Highlight';-inkscape-font-specification:'Zilla Slab Highlight Bold';text-align:center;text-anchor:middle;stroke-width:0.264583"
+         id="tspan2634-9-6-1-6-6">&quot;Runways / Buildings&quot; path</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.46944px;line-height:1.25;font-family:Inter;-inkscape-font-specification:Inter;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;white-space:pre;inline-size:52.6695;stroke-width:0.264583"
+       x="155.05766"
+       y="58.762104"
+       id="text3586"
+       transform="translate(-75.802239,99.240164)"><tspan
+         x="155.05766"
+         y="58.762104"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.46944px;font-family:Inter;-inkscape-font-specification:Inter">Fill and Stroke for most paths in the</tspan><tspan></tspan><tspan
+           y="58.762104"> </tspan></tspan><tspan
+         x="155.05766"
+         y="61.848902"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.46944px;font-family:Inter;-inkscape-font-specification:Inter">&quot;Runways / Buildings&quot; layer.</tspan></tspan></text>
+    <path
+       sodipodi:nodetypes="ccccccccc"
+       d="m 104.68724,113.01859 9.64282,22.7462 24.54012,9.91634 3.37778,-6.64433 -3.85389,-6.81967 4.59161,-6.63333 -15.97578,-1.85142 -10.17552,-6.33782 z"
+       style="display:inline;opacity:1;fill:#b3b3b3;fill-opacity:1;stroke:#b3b3b3;stroke-width:0.1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="path822" />
+    <text
+       id="text2632-9-9-7-3-0-7"
+       y="104.52682"
+       x="124.78606"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:2.82222px;line-height:1.25;font-family:'Zilla Slab Highlight';-inkscape-font-specification:'Zilla Slab Highlight Bold';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;stroke-width:0.264583"
+       xml:space="preserve"><tspan
+         id="tspan2634-9-6-1-6-6-7"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:2.82222px;font-family:'Zilla Slab Highlight';-inkscape-font-specification:'Zilla Slab Highlight Bold';text-align:center;text-anchor:middle;stroke-width:0.264583"
+         y="104.52682"
+         x="124.78606"
+         sodipodi:role="line">&quot;Taxiways / Ramps&quot; path</tspan></text>
+    <text
+       transform="translate(-31.517278,99.315116)"
+       id="text3586-1"
+       y="58.762104"
+       x="155.05766"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.46944444px;line-height:1.25;font-family:Inter;-inkscape-font-specification:Inter;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;white-space:pre;inline-size:52.6695;stroke-width:0.264583;"
+       xml:space="preserve"><tspan
+         x="155.05766"
+         y="58.762104"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.46944px;font-family:Inter;-inkscape-font-specification:Inter">Fill and Stroke for most paths in the</tspan><tspan></tspan><tspan
+           y="58.762104"> </tspan></tspan><tspan
+         x="155.05766"
+         y="61.84891"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.46944px;font-family:Inter;-inkscape-font-specification:Inter">&quot;Taxiways / Ramps&quot; layer.</tspan></tspan></text>
+    <path
+       sodipodi:nodetypes="ccccc"
+       style="display:inline;opacity:1;fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:0.2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 72.301618,40.804372 4.44742,-2.229088 -1.54095,-3.201793 -4.4853,2.150386 z"
+       id="path826-5"
+       inkscape:connector-curvature="0" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:2.82222px;line-height:1.11;font-family:'Zilla Slab Highlight';-inkscape-font-specification:'Zilla Slab Highlight Bold';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;stroke-width:0.264583"
+       x="74.483521"
+       y="27.935419"
+       id="text2632-8"><tspan
+         sodipodi:role="line"
+         x="74.483521"
+         y="27.935419"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:2.82222px;font-family:'Zilla Slab Highlight';-inkscape-font-specification:'Zilla Slab Highlight Bold';text-align:center;text-anchor:middle;stroke-width:0.264583"
+         id="tspan2634-0">Stopway fill</tspan><tspan
+         id="tspan3686"
+         sodipodi:role="line"
+         x="74.483521"
+         y="31.068083"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:2.82222px;font-family:'Zilla Slab Highlight';-inkscape-font-specification:'Zilla Slab Highlight Bold';text-align:center;text-anchor:middle;stroke-width:0.264583">and stroke</tspan></text>
+    <path
+       style="display:inline;opacity:1;fill:none;stroke:#000000;stroke-width:0.135;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-start:url(#marker13503)"
+       d="m 199.9313,34.459583 2.78146,13.64174 c 0.33575,1.64668 2.45154,3.05393 4.60334,2.01886 l -5.9704,2.87192 c 1.97722,-0.95109 1.87748,-2.41024 1.36706,-4.89078"
+       id="path13499"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="csccc" />
+    <text
+       id="text2632-6-7-0-6"
+       y="27.597147"
+       x="201.36783"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:2.82222px;line-height:0.7;font-family:'Zilla Slab Highlight';-inkscape-font-specification:'Zilla Slab Highlight Bold';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;stroke-width:0.264583"
+       xml:space="preserve"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:2.82222px;font-family:'Zilla Slab Highlight';-inkscape-font-specification:'Zilla Slab Highlight Bold';text-align:center;text-anchor:middle;stroke-width:0.264583"
+         y="27.597147"
+         x="201.36783"
+         sodipodi:role="line"
+         id="tspan2704-6-0-9">Taxiway line stroke</tspan></text>
+    <path
+       id="path2140"
+       d="m 172.30105,141.6976 16.11179,-16.74023 -9.35101,-7.43165 -13.18734,2.60074 -10.15624,8.44092 z"
+       style="display:inline;opacity:1;fill:#d0d0ff;fill-opacity:1;stroke:none;stroke-width:0.265;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       sodipodi:nodetypes="cccccc" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:2.82222px;line-height:1.25;font-family:'Zilla Slab Highlight';-inkscape-font-specification:'Zilla Slab Highlight Bold';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;stroke-width:0.264583"
+       x="168.70172"
+       y="104.52682"
+       id="text3836"><tspan
+         sodipodi:role="line"
+         x="168.70172"
+         y="104.52682"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:2.82222px;font-family:'Zilla Slab Highlight';-inkscape-font-specification:'Zilla Slab Highlight Bold';text-align:center;text-anchor:middle;stroke-width:0.264583"
+         id="tspan3834">Water path</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.46944444px;line-height:1.25;font-family:Inter;-inkscape-font-specification:Inter;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;white-space:pre;inline-size:47.3241;stroke-width:0.264583;"
+       x="155.05766"
+       y="58.762104"
+       id="text3848"
+       transform="translate(13.343315,99.315116)"><tspan
+         x="155.05766"
+         y="58.762104"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.46944px;font-family:Inter;-inkscape-font-specification:Inter">Put in layout layer but make sure it's</tspan><tspan></tspan><tspan
+           y="58.762104"> </tspan></tspan><tspan
+         x="155.05766"
+         y="61.84891"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.46944px;font-family:Inter;-inkscape-font-specification:Inter">lowered to bottom.
+</tspan></tspan></text>
+    <path
+       style="display:inline;opacity:1;fill:none;stroke:#000000;stroke-width:0.601922;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="M 326.55464,30.427082 H 492.26847"
+       id="path857"
+       sodipodi:nodetypes="cc" />
+    <rect
+       style="display:inline;opacity:1;fill:none;fill-opacity:0.638554;stroke:#000000;stroke-width:0.600001;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="rect901"
+       width="165.18466"
+       height="274.42581"
+       x="326.81924"
+       y="19.261688" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:3.88056px;line-height:1.25;font-family:'Zilla Slab Highlight';-inkscape-font-specification:'Zilla Slab Highlight Bold';text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;display:inline;opacity:1;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264999;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       x="419.18036"
+       y="15.56819"
+       id="text852"><tspan
+         sodipodi:role="line"
+         id="tspan850"
+         x="419.18036"
+         y="15.56819"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:3.88056px;font-family:'Zilla Slab Highlight';-inkscape-font-specification:'Zilla Slab Highlight Bold';text-align:start;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264999;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1">  Eff  d  Mmm  </tspan></text>
+    <path
+       d="m 403.92937,3.1548479 c -0.12058,0 -0.23405,0.01943 -0.34044,0.05844 -0.10285,0.03901 -0.19325,0.09417 -0.27127,0.165104 -0.0745,0.07092 -0.13506,0.157713 -0.18118,0.260561 -0.0425,0.102848 -0.0638,0.219927 -0.0638,0.351149 v 2.643604 c 0,0.131222 0.0213,0.248302 0.0638,0.351149 0.0461,0.102848 0.1067,0.191446 0.18118,0.265919 0.078,0.07095 0.16842,0.12431 0.27127,0.159746 0.10639,0.03902 0.21986,0.05844 0.34044,0.05844 0.11703,0 0.22687,-0.01943 0.32972,-0.05844 0.10639,-0.03546 0.19861,-0.08882 0.27663,-0.159746 0.0781,-0.07447 0.13815,-0.163071 0.18069,-0.265919 0.0461,-0.102847 0.0692,-0.219927 0.0692,-0.351149 v -2.643604 c 0,-0.131222 -0.023,-0.248302 -0.0692,-0.351149 -0.0426,-0.102848 -0.10267,-0.189639 -0.18069,-0.260562 -0.078,-0.07092 -0.17024,-0.126085 -0.27663,-0.165103 -0.10285,-0.03902 -0.21269,-0.05844 -0.32972,-0.05844 z m 16.82593,0 c -0.12411,0 -0.23758,0.01943 -0.34044,0.05844 -0.10284,0.03546 -0.19143,0.09062 -0.2659,0.165104 -0.0745,0.07092 -0.1328,0.157713 -0.17534,0.260561 -0.039,0.0993 -0.0584,0.212762 -0.0584,0.340435 v 2.665033 c 0,0.255344 0.0692,0.4574 0.20747,0.606353 0.14186,0.145403 0.31906,0.21819 0.53183,0.21819 0.12414,0 0.23397,-0.02488 0.32973,-0.07452 0.0958,-0.0461 0.1771,-0.106215 0.24449,-0.180689 l 0.0214,0.180689 h 0.30342 v -2.308526 h -0.84061 v 0.44125 h 0.41495 v 1.106534 c 0,0.120553 -0.037,0.210959 -0.11154,0.271276 -0.0744,0.06032 -0.16488,0.09059 -0.27127,0.09059 -0.1064,0 -0.19366,-0.03027 -0.26105,-0.09059 -0.0638,-0.06029 -0.0955,-0.150698 -0.0955,-0.271276 v -2.643604 c 0,-0.120554 0.0335,-0.210959 0.10082,-0.271276 0.0674,-0.06032 0.15779,-0.09059 0.27127,-0.09059 0.1064,0 0.19186,0.03027 0.25569,0.09059 0.0674,0.06029 0.10082,0.150697 0.10082,0.271276 v 0.127602 h 0.45245 v -0.138317 c 0,-0.255344 -0.0746,-0.455593 -0.22354,-0.600996 -0.14896,-0.148953 -0.34608,-0.223547 -0.59078,-0.223547 z m -22.26899,0.07452 v 4.165088 h 0.48946 v -1.643729 h 0.3721 c 0.25534,0 0.45788,-0.07822 0.60684,-0.234262 0.14895,-0.156041 0.22306,-0.396967 0.22306,-0.723241 v -0.606354 c 0,-0.326274 -0.0741,-0.567687 -0.22306,-0.723728 -0.14896,-0.156046 -0.3515,-0.233774 -0.60684,-0.233774 z m 2.09862,0 v 4.165088 h 0.48946 v -4.165088 z m 0.97698,0 v 4.165088 h 1.27115 v -0.473394 h -0.78217 v -3.691694 z m 3.4667,0 v 0.473394 h 0.46801 v 3.691694 h 0.48948 v -3.691694 h 0.46804 v -0.473394 z m 2.62897,0 v 0.473394 h 0.46804 v 3.691694 h 0.48947 v -3.691694 h 0.46804 v -0.473394 z m 1.77962,0 v 4.165088 h 0.47875 v -1.941792 h 0.36186 c 0.14896,0 0.24843,0.02849 0.29807,0.08523 0.0533,0.0532 0.0798,0.145418 0.0798,0.276633 v 1.579929 h 0.48362 v -1.563857 c 0,-0.170228 -0.028,-0.303124 -0.0847,-0.398879 -0.0567,-0.09577 -0.13677,-0.164938 -0.23961,-0.207475 0.0958,-0.04256 0.16855,-0.109913 0.21819,-0.202118 0.0497,-0.09221 0.0746,-0.221966 0.0746,-0.38865 v -0.579567 c 0,-0.258888 -0.0746,-0.460944 -0.22356,-0.606354 -0.1454,-0.145403 -0.34565,-0.218189 -0.60099,-0.218189 z m 2.704,0 -0.70231,4.165088 h 0.4734 l 0.0906,-0.600996 h 0.77682 l 0.0955,0.600996 h 0.47389 l -0.72373,-4.165088 z m 1.54583,0 v 4.165088 h 0.48898 v -4.165088 z m 0.9765,0 v 4.165088 h 0.42566 v -3.063911 l 0.80311,3.063911 h 0.43638 v -4.165088 h -0.42567 v 2.872508 l -0.70764,-2.872508 z m 2.15072,0 v 4.165088 h 0.48947 v -4.165088 z m 0.9765,0 v 4.165088 h 0.42566 v -3.063911 l 0.80312,3.063911 h 0.43638 v -4.165088 h -0.42566 v 2.872508 l -0.70766,-2.872508 z m -13.86138,0.398391 c 0.10994,0 0.19853,0.03211 0.26591,0.09595 0.0709,0.06029 0.10618,0.150698 0.10618,0.271276 v 2.633376 c 0,0.120579 -0.0352,0.212797 -0.10618,0.276634 -0.0674,0.06032 -0.15597,0.0901 -0.26591,0.0901 -0.10994,-1e-6 -0.20035,-0.02978 -0.27128,-0.0901 -0.0674,-0.06384 -0.1013,-0.156055 -0.1013,-0.276634 v -2.633376 c 0,-0.120553 0.0339,-0.210958 0.1013,-0.271276 0.0709,-0.06384 0.16134,-0.09595 0.27128,-0.09595 z m 5.98658,0.06429 h 0.32973 c 0.25533,0 0.38328,0.140139 0.38328,0.420308 v 0.542552 c 0,0.134741 -0.0285,0.232388 -0.0852,0.292706 -0.0532,0.05674 -0.15266,0.08523 -0.29805,0.08523 h -0.32973 z m -10.94018,0.01072 h 0.33508 c 0.25535,0 0.38281,0.150521 0.38281,0.451965 v 0.670641 c 0,0.30145 -0.12746,0.451965 -0.38281,0.451965 h -0.33508 z m 13.4104,0.595639 0.32971,2.085466 h -0.6492 z m -7.48761,3.177876 c -0.0714,0 -0.13665,0.01117 -0.19579,0.03361 -0.0591,0.02039 -0.1101,0.05166 -0.15293,0.09448 -0.0428,0.04078 -0.0763,0.09087 -0.10081,0.150006 -0.0224,0.0571 -0.0336,0.122375 -0.0336,0.195787 v 1.532686 c 0,0.146823 0.0398,0.263068 0.11932,0.348716 0.0816,0.08361 0.18351,0.125165 0.30586,0.125165 0.0714,0 0.1344,-0.01431 0.18946,-0.04285 0.0551,-0.02651 0.10199,-0.06091 0.14074,-0.103737 l 0.0122,0.103737 h 0.17436 v -1.327656 h -0.48313 v 0.25423 h 0.23864 v 0.636063 c 0,0.06933 -0.0215,0.121183 -0.0643,0.15585 -0.0428,0.03466 -0.0947,0.05211 -0.15585,0.05211 -0.0612,0 -0.11126,-0.01744 -0.15,-0.05211 -0.0367,-0.03466 -0.055,-0.08652 -0.055,-0.15585 v -1.520024 c 0,-0.06933 0.0192,-0.12167 0.058,-0.156337 0.0387,-0.03467 0.0911,-0.05163 0.15633,-0.05163 0.0612,0 0.1099,0.01696 0.14659,0.05163 0.0387,0.03467 0.058,0.087 0.058,0.156337 v 0.07305 h 0.26008 v -0.07939 c 0,-0.146823 -0.0429,-0.262185 -0.12858,-0.345792 -0.0857,-0.08565 -0.1988,-0.128089 -0.3395,-0.128089 z m 3.9547,0 c -0.14684,0 -0.26534,0.04695 -0.35506,0.140752 -0.0876,0.09177 -0.13149,0.21693 -0.13149,0.375988 0,0.07749 0.0121,0.158843 0.0366,0.24449 0.0265,0.08361 0.0744,0.18064 0.14366,0.290757 0.0285,0.04486 0.0603,0.09181 0.095,0.140752 0.0367,0.0469 0.0734,0.09385 0.11007,0.140752 0.0367,0.0469 0.0716,0.0916 0.10423,0.134421 0.0347,0.04282 0.0632,0.08173 0.0857,0.1164 0.0449,0.06933 0.0752,0.132357 0.0915,0.189455 0.0184,0.0571 0.0278,0.113454 0.0278,0.168512 0,0.08972 -0.0197,0.159021 -0.0584,0.207963 -0.0367,0.04894 -0.0935,0.07354 -0.17095,0.07354 -0.0713,0 -0.12773,-0.02146 -0.16851,-0.06429 -0.0387,-0.04283 -0.058,-0.09291 -0.058,-0.150005 v -0.05796 l -0.26008,-0.0677 v 0.128582 c 0,0.06525 0.0112,0.126512 0.0336,0.18361 0.0244,0.0571 0.058,0.107183 0.10082,0.150007 0.0428,0.04078 0.0951,0.07342 0.15634,0.09789 0.0632,0.02447 0.13428,0.03653 0.21381,0.03653 0.16517,0 0.2868,-0.05097 0.36429,-0.152928 0.0775,-0.103999 0.11592,-0.244845 0.11592,-0.422257 0,-0.08769 -0.0112,-0.165019 -0.0336,-0.232313 -0.0204,-0.06729 -0.0539,-0.138843 -0.10082,-0.214294 -0.0285,-0.04486 -0.062,-0.09358 -0.10081,-0.146596 -0.0387,-0.05506 -0.0799,-0.110045 -0.12273,-0.165104 -0.0408,-0.0571 -0.0814,-0.111201 -0.12225,-0.162181 -0.0387,-0.05098 -0.0713,-0.09567 -0.0979,-0.134421 -0.0408,-0.0571 -0.0721,-0.1112 -0.0945,-0.162181 -0.0204,-0.05302 -0.0307,-0.109375 -0.0307,-0.168513 0,-0.07137 0.0174,-0.13126 0.0521,-0.180201 0.0367,-0.05098 0.0926,-0.07646 0.16803,-0.07646 0.0652,0 0.11623,0.02009 0.15292,0.06088 0.0367,0.04078 0.055,0.09577 0.055,0.165104 v 0.06429 h 0.26007 v -0.08523 c 0,-0.140706 -0.0407,-0.254301 -0.12225,-0.339948 -0.0816,-0.08565 -0.19467,-0.128089 -0.33945,-0.128089 z m 7.5548,0 c -0.0693,0 -0.13409,0.01117 -0.19529,0.03361 -0.0591,0.02243 -0.11148,0.0537 -0.15634,0.09448 -0.0428,0.04078 -0.0772,0.09087 -0.10373,0.150006 -0.0244,0.05914 -0.037,0.126667 -0.037,0.202118 v 1.520023 c 0,0.07545 0.0125,0.142981 0.037,0.202119 0.0265,0.05914 0.0609,0.110104 0.10373,0.152929 0.0449,0.04078 0.0972,0.07117 0.15634,0.09156 0.0612,0.02243 0.12596,0.03361 0.19529,0.03361 0.0673,0 0.13083,-0.01118 0.18995,-0.03361 0.0612,-0.0204 0.11392,-0.05078 0.15878,-0.09156 0.0449,-0.04283 0.0797,-0.09379 0.10423,-0.152929 0.0265,-0.05914 0.04,-0.126667 0.04,-0.202119 v -1.520024 c 0,-0.07545 -0.0134,-0.142981 -0.04,-0.202118 -0.0245,-0.05914 -0.0594,-0.109221 -0.10423,-0.150005 -0.0449,-0.04078 -0.0976,-0.07205 -0.15878,-0.09448 -0.0592,-0.02243 -0.12265,-0.03361 -0.18995,-0.03361 z m -14.49841,0.04286 v 2.394732 h 0.2815 v -1.018383 h 0.40034 v -0.27225 h -0.40034 v -0.832335 h 0.5445 v -0.271764 z m 1.02764,0 v 2.394732 h 0.73103 v -0.27225 h -0.45002 v -2.122482 z m 0.93169,0 v 2.394732 h 0.2815 v -2.394732 z m 1.76256,0 v 2.394732 h 0.2815 v -1.08267 h 0.42518 v 1.08267 h 0.2815 v -2.394732 h -0.2815 v 1.042734 h -0.42518 v -1.042734 z m 1.18689,0 v 0.271764 h 0.26933 v 2.122968 h 0.2815 v -2.122968 h 0.26884 v -0.271764 z m 2.74394,0 v 2.394732 h 0.2815 v -2.394732 z m 0.56154,0 v 2.394732 h 0.25082 v -1.565805 l 0.30001,1.565805 h 0.26008 l 0.29368,-1.544375 v 1.544375 h 0.25081 v -2.394732 h -0.2815 l -0.3945,1.899421 -0.37306,-1.899421 z m 1.63107,0 v 1.957378 c 0,0.07545 0.0121,0.14298 0.0366,0.202118 0.0265,0.05914 0.0614,0.110104 0.10422,0.152929 0.0449,0.04078 0.0967,0.07117 0.15585,0.09156 0.0591,0.02243 0.12352,0.03361 0.19287,0.03361 0.0694,0 0.13374,-0.01118 0.19286,-0.03361 0.0612,-0.02039 0.1139,-0.05078 0.15876,-0.09156 0.0449,-0.04283 0.0798,-0.09379 0.10423,-0.152929 0.0265,-0.05914 0.0395,-0.126667 0.0395,-0.202118 v -1.957378 h -0.27518 v 1.954455 c 0,0.06933 -0.0201,0.122067 -0.0609,0.158773 -0.0387,0.03466 -0.091,0.05211 -0.15634,0.05211 -0.0612,0 -0.11215,-0.01744 -0.15292,-0.05211 -0.0387,-0.03671 -0.058,-0.08944 -0.058,-0.158773 v -1.954455 z m 1.26091,0 v 2.394732 h 0.73104 v -0.27225 h -0.45002 v -2.122482 z m 1.24973,0 -0.40375,2.394732 h 0.27225 l 0.0521,-0.345792 h 0.44662 l 0.055,0.345792 h 0.27224 l -0.41592,-2.394732 z m 0.68964,0 v 0.271764 h 0.26932 v 2.122968 h 0.28151 v -2.122968 h 0.26932 v -0.271764 z m 2.21258,0 v 2.394732 h 0.27517 v -1.116287 h 0.20796 c 0.0857,0 0.14291,0.01608 0.17144,0.0487 0.0306,0.03059 0.0458,0.08381 0.0458,0.159259 v 0.908312 h 0.27858 v -0.89906 c 0,-0.09788 -0.0166,-0.174333 -0.0492,-0.229392 -0.0326,-0.05506 -0.0782,-0.09485 -0.13734,-0.119322 0.055,-0.02447 0.0966,-0.06338 0.12518,-0.116401 0.0285,-0.05302 0.0429,-0.127217 0.0429,-0.22306 v -0.333616 c 0,-0.148863 -0.0429,-0.265107 -0.12858,-0.348714 -0.0836,-0.08361 -0.19848,-0.125167 -0.3453,-0.125167 z m -0.75929,0.229392 c 0.0632,0 0.11416,0.01833 0.15293,0.05503 0.0408,0.03467 0.0609,0.08652 0.0609,0.15585 v 1.514179 c 0,0.06933 -0.0201,0.122066 -0.0609,0.158772 -0.0387,0.03466 -0.0897,0.05211 -0.15293,0.05211 -0.0632,0 -0.11554,-0.01744 -0.15632,-0.05211 -0.0387,-0.03671 -0.058,-0.08944 -0.058,-0.158772 v -1.514179 c 0,-0.06933 0.0192,-0.121183 0.058,-0.15585 0.0408,-0.03671 0.0931,-0.05503 0.15632,-0.05503 z m 1.03446,0.03653 h 0.18945 c 0.14683,0 0.22063,0.08047 0.22063,0.241567 v 0.312187 c 0,0.07749 -0.0166,0.133359 -0.0492,0.168026 -0.0305,0.03263 -0.0874,0.04919 -0.17095,0.04919 H 417.443 Z m -3.03663,0.348714 0.18993,1.199071 h -0.37354 z"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.64444px;line-height:1.25;font-family:'Libel Suit';-inkscape-font-specification:'Libel Suit';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;display:inline;opacity:1;stroke-width:0.249359"
+       id="path1442" />
+    <text
+       id="text886"
+       y="11.444503"
+       x="493.46011"
+       style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:7.05556px;line-height:1.25;font-family:'Zilla Slab';-inkscape-font-specification:'Zilla Slab Semi-Bold';text-align:end;letter-spacing:0px;word-spacing:0px;text-anchor:end;display:inline;opacity:1;stroke-width:0.264583;"
+       xml:space="preserve"><tspan
+         id="tspan888"
+         style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:7.05556px;font-family:'Zilla Slab';-inkscape-font-specification:'Zilla Slab Semi-Bold';stroke-width:0.264583;"
+         y="11.444503"
+         x="493.46011"
+         sodipodi:role="line">City, Island</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:3.52778px;line-height:1.25;font-family:Inter;-inkscape-font-specification:'Inter Semi-Bold';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;display:inline;opacity:1;stroke-width:0.264583;"
+       x="410.02765"
+       y="15.481329"
+       id="text892"><tspan
+         sodipodi:role="line"
+         id="tspan890"
+         x="410.02765"
+         y="15.481329"
+         style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:3.52778px;font-family:Inter;-inkscape-font-specification:'Inter Semi-Bold';text-align:center;text-anchor:middle;stroke-width:0.264583;">10-9</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:7.05555556px;line-height:1.25;font-family:'Zilla Slab';-inkscape-font-specification:'Zilla Slab Semi-Bold';text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;display:inline;opacity:1;stroke-width:0.264583;"
+       x="326.5184"
+       y="11.407821"
+       id="text895"><tspan
+         sodipodi:role="line"
+         x="326.5184"
+         y="11.407821"
+         style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-family:'Zilla Slab';-inkscape-font-specification:'Zilla Slab Semi-Bold';text-align:start;text-anchor:start;stroke-width:0.264583;font-size:7.05555556px;"
+         id="tspan893">ICAO/IATA</tspan></text>
+    <text
+       id="text860"
+       y="15.195374"
+       x="340.21924"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:3.88055556px;line-height:1.25;font-family:Inter;-inkscape-font-specification:'Inter Bold';letter-spacing:0px;word-spacing:0px;display:inline;opacity:1;stroke-width:0.264583;"
+       xml:space="preserve"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Inter;-inkscape-font-specification:'Inter Bold';stroke-width:0.264583;font-size:3.88055556px;"
+         y="15.195374"
+         x="340.21924"
+         id="tspan858"
+         sodipodi:role="line">n'</tspan></text>
+    <path
+       sodipodi:nodetypes="cc"
+       id="path2703"
+       d="M 359.85606,19.261691 V 30.427082"
+       style="display:inline;opacity:1;fill:none;stroke:#000000;stroke-width:0.3;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+    <path
+       style="display:inline;opacity:1;fill:none;stroke:#000000;stroke-width:0.3;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="M 392.89306,19.261691 V 30.427082"
+       id="path2705"
+       sodipodi:nodetypes="cc" />
+    <path
+       sodipodi:nodetypes="cc"
+       id="path2707"
+       d="M 425.93005,19.261691 V 30.427082"
+       style="display:inline;opacity:1;fill:none;stroke:#000000;stroke-width:0.3;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+    <path
+       style="display:inline;opacity:1;fill:none;stroke:#000000;stroke-width:0.3;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="M 458.96704,19.261691 V 30.427082"
+       id="path2709"
+       sodipodi:nodetypes="cc" />
+    <text
+       id="text1482"
+       y="16.557346"
+       x="492.3486"
+       style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:4.23333333px;line-height:1.25;font-family:'Zilla Slab';-inkscape-font-specification:'Zilla Slab Semi-Bold';text-align:end;letter-spacing:0px;word-spacing:0px;text-anchor:end;display:inline;opacity:1;stroke-width:0.264583;"
+       xml:space="preserve"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-family:'Zilla Slab';-inkscape-font-specification:'Zilla Slab Semi-Bold';text-align:end;text-anchor:end;stroke-width:0.264583;font-size:4.23333333px;"
+         y="16.557346"
+         x="492.3486"
+         id="tspan1480"
+         sodipodi:role="line">Airport Name</tspan></text>
+    <path
+       sodipodi:nodetypes="scsssss"
+       d="m 407.71931,11.258745 c -1.6168,0 -2.92079,1.326684 -2.92075,2.94349 0,1.625644 1.31785,2.943489 2.94349,2.943489 h 4.57182 c 1.62564,0 2.94349,-1.317845 2.94349,-2.943489 0,-1.625645 -1.31785,-2.94349 -2.94349,-2.94349 z"
+       style="display:inline;opacity:1;fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.370001;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="path1484" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:2.82222222px;line-height:1.25;font-family:Inter;-inkscape-font-specification:'Inter Medium';text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;display:inline;opacity:1;stroke-width:0.264583;"
+       x="326.49438"
+       y="18.172119"
+       id="text1603"><tspan
+         sodipodi:role="line"
+         x="326.49438"
+         y="18.172119"
+         style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-family:Inter;-inkscape-font-specification:'Inter Medium';text-align:start;text-anchor:start;stroke-width:0.264583;font-size:2.82222222px;"
+         id="tspan1601">[N/S]nn nnn  [E/W]nn nnn</tspan></text>
+    <text
+       id="text1625"
+       y="15.202088"
+       x="326.50607"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.82222px;line-height:1.25;font-family:;-inkscape-font-specification:;text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;display:inline;opacity:1;stroke-width:0.264583"
+       xml:space="preserve"><tspan
+         id="tspan1623"
+         style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:2.82222px;font-family:Inter;-inkscape-font-specification:'Inter Medium';text-align:start;text-anchor:start;stroke-width:0.264583"
+         y="15.202088"
+         x="326.50607"
+         sodipodi:role="line">Apt Elev</tspan></text>
+    <path
+       sodipodi:nodetypes="ccc"
+       style="display:inline;opacity:1;fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 305.01756,23.8125 0,-23.8125001 h 48.94792"
+       id="path3867" />
+    <text
+       id="text3836-2"
+       y="304.91367"
+       x="409.63272"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:7.05556px;line-height:1.11;font-family:'Zilla Slab Highlight';-inkscape-font-specification:'Zilla Slab Highlight Bold';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;white-space:pre;inline-size:177.976;stroke-width:0.264583"
+       xml:space="preserve"><tspan
+         x="409.63272"
+         y="304.91367"><tspan>Template for the layout of a ground chart.</tspan><tspan
+           style="font-size:7.05556px"> </tspan><tspan
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:7.05556px;font-family:'Zilla Slab Highlight';-inkscape-font-specification:'Zilla Slab Highlight Bold';text-align:center;text-anchor:middle;stroke-width:0.264583">Allign the top</tspan><tspan></tspan><tspan
+           y="304.91367"> </tspan></tspan><tspan
+         x="409.63272"
+         y="312.74532"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:7.05556px;font-family:'Zilla Slab Highlight';-inkscape-font-specification:'Zilla Slab Highlight Bold';text-align:center;text-anchor:middle;stroke-width:0.264583">left corner triangle with the top</tspan><tspan
+           style="font-size:7.05556px"> </tspan><tspan>left grid mark of a</tspan><tspan></tspan><tspan
+           y="312.74532"> </tspan></tspan><tspan
+         x="409.63272"
+         y="320.57698"><tspan>new .svg file (shown with &quot;#&quot;)</tspan></tspan></text>
+    <g
+       id="g1236">
+      <text
+         id="text1821-9"
+         y="89.492073"
+         x="35.234871"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:3.52778px;line-height:1.25;font-family:Inter;-inkscape-font-specification:'Inter Bold';letter-spacing:0px;word-spacing:0px;stroke-width:0.264583"
+         xml:space="preserve"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:3.52778px;font-family:Inter;-inkscape-font-specification:'Inter Bold';stroke-width:0.264583"
+           y="89.492073"
+           x="35.234871"
+           id="tspan1819-4"
+           sodipodi:role="line">N</tspan></text>
+      <g
+         id="g1823-3"
+         transform="rotate(90,112.71315,137.25134)">
+        <path
+           sodipodi:nodetypes="ccccccccc"
+           d="m 45.544922,213.30078 c -0.159994,0.0108 -0.166877,0.24346 -0.0078,0.26367 l 11.716787,0.62114 c 0.116462,0.006 0.183485,-0.13033 0.107422,-0.21875 l -0.335937,-0.40039 h 4.050781 c 0.07343,1.7e-4 0.13299,-0.0594 0.132812,-0.13282 1.72e-4,-0.0734 -0.05939,-0.13298 -0.132812,-0.13281 z"
+           style="color:#000000;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:medium;line-height:normal;font-family:sans-serif;font-variant-ligatures:normal;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-alternates:normal;font-variant-east-asian:normal;font-feature-settings:normal;font-variation-settings:normal;text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:normal;word-spacing:normal;text-transform:none;writing-mode:lr-tb;direction:ltr;text-orientation:mixed;dominant-baseline:auto;baseline-shift:baseline;text-anchor:start;white-space:normal;shape-padding:0;shape-margin:0;inline-size:0;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;vector-effect:none;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.265;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate;stop-color:#000000;stop-opacity:1"
+           id="path1827-4" />
+      </g>
+    </g>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:3.175px;line-height:1.1;font-family:Metropolis;-inkscape-font-specification:'Metropolis Medium';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;display:inline;opacity:1;stroke-width:0.264583;"
+       x="116.26654"
+       y="77.492081"
+       id="text1525"><tspan
+         sodipodi:role="line"
+         x="116.26654"
+         y="77.492081"
+         style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-family:Metropolis;-inkscape-font-specification:'Metropolis Medium';text-align:center;text-anchor:middle;stroke-width:0.264583;font-size:3.175px;"
+         id="tspan1523">Sample Text</tspan></text>
+    <text
+       id="text1533"
+       y="78.604805"
+       x="163.10736"
+       style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:3.52778px;line-height:0.75;font-family:'Zilla Slab';-inkscape-font-specification:'Zilla Slab Semi-Bold';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;display:inline;opacity:1;stroke-width:0.264583"
+       xml:space="preserve"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:3.52778px;font-family:'Zilla Slab';-inkscape-font-specification:'Zilla Slab Semi-Bold';text-align:center;text-anchor:middle;stroke-width:0.264583"
+         y="78.604805"
+         x="163.10736"
+         sodipodi:role="line"
+         id="tspan1531">SAMPLE TEXT</tspan></text>
+    <path
+       sodipodi:nodetypes="cc"
+       style="display:inline;opacity:1;fill:none;stroke:#000000;stroke-width:0.264999;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker-start:url(#EmptyDotM-6-7);marker-end:url(#EmptyDotM-6-7)"
+       d="M 3.1056199,39.373836 0.80353991,34.514786"
+       id="path1756-6"
+       inkscape:connector-curvature="0" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:2.82222px;line-height:1.11;font-family:'Zilla Slab Highlight';-inkscape-font-specification:'Zilla Slab Highlight Bold';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;white-space:pre;inline-size:17.4324;stroke-width:0.264583"
+       x="2.0856352"
+       y="28.368443"
+       id="text2632-9-9-4"><tspan
+         x="2.0856352"
+         y="28.368443"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:2.82222px;font-family:'Zilla Slab Highlight';-inkscape-font-specification:'Zilla Slab Highlight Bold';text-align:center;text-anchor:middle;stroke-width:0.264583">Hold short</tspan><tspan></tspan><tspan
+           y="28.368443"> </tspan></tspan><tspan
+         x="2.0856352"
+         y="31.501107"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:2.82222px;font-family:'Zilla Slab Highlight';-inkscape-font-specification:'Zilla Slab Highlight Bold';text-align:center;text-anchor:middle;stroke-width:0.264583">point</tspan></tspan></text>
+    <path
+       id="path1319-8"
+       d="m 200.15763,79.19566 -5.35092,-1.5177 -0.24923,0.82956 5.35267,1.5182 z"
+       style="color:#000000;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:medium;line-height:normal;font-family:sans-serif;font-variant-ligatures:normal;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-alternates:normal;font-variant-east-asian:normal;font-feature-settings:normal;font-variation-settings:normal;text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:normal;word-spacing:normal;text-transform:none;writing-mode:lr-tb;direction:ltr;text-orientation:mixed;dominant-baseline:auto;baseline-shift:baseline;text-anchor:start;white-space:normal;shape-padding:0;shape-margin:0;inline-size:0;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;vector-effect:none;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:0.2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate;stop-color:#000000;stop-opacity:1" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:2.82222px;line-height:1.11;font-family:'Zilla Slab Highlight';-inkscape-font-specification:'Zilla Slab Highlight Bold';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;stroke-width:0.264583"
+       x="197.22719"
+       y="67.524536"
+       id="text2876"><tspan
+         sodipodi:role="line"
+         x="197.22719"
+         y="67.524536"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:2.82222px;font-family:'Zilla Slab Highlight';-inkscape-font-specification:'Zilla Slab Highlight Bold';text-align:center;text-anchor:middle;stroke-width:0.264583"
+         id="tspan2878">Displaced</tspan><tspan
+         sodipodi:role="line"
+         x="197.22719"
+         y="70.657204"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:2.82222px;font-family:'Zilla Slab Highlight';-inkscape-font-specification:'Zilla Slab Highlight Bold';text-align:center;text-anchor:middle;stroke-width:0.264583"
+         id="tspan2882">Threshold</tspan></text>
+    <path
+       sodipodi:nodetypes="ccccc"
+       style="display:inline;opacity:1;fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:0.499999;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 203.50901,142.73286 34.96153,-26.96703 -6.49174,-8.13044 -34.96153,26.96703 z"
+       id="path1003" />
+    <text
+       id="text1164"
+       y="104.52682"
+       x="217.08267"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:2.82222px;line-height:1.25;font-family:'Zilla Slab Highlight';-inkscape-font-specification:'Zilla Slab Highlight Bold';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;stroke-width:0.264583"
+       xml:space="preserve"><tspan
+         id="tspan1162"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:2.82222px;font-family:'Zilla Slab Highlight';-inkscape-font-specification:'Zilla Slab Highlight Bold';text-align:center;text-anchor:middle;stroke-width:0.264583"
+         y="104.52682"
+         x="217.08267"
+         sodipodi:role="line">Unpaved Runway</tspan></text>
+    <text
+       transform="translate(58.51147,99.315116)"
+       id="text1193"
+       y="58.762104"
+       x="155.05766"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.46944444px;line-height:1.25;font-family:Inter;-inkscape-font-specification:Inter;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;white-space:pre;inline-size:47.3241;stroke-width:0.264583;"
+       xml:space="preserve"><tspan
+         x="155.05766"
+         y="58.762104"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.46944px;font-family:Inter;-inkscape-font-specification:Inter">unpaved runway</tspan></tspan></text>
+    <text
+       transform="translate(106.46493,56.95826)"
+       id="text2632-6-0-7-5-0-7"
+       y="27.481623"
+       x="90.641937"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.46944444px;line-height:1.25;font-family:Inter;-inkscape-font-specification:Inter;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;white-space:pre;inline-size:44.0282;stroke-width:0.264583;"
+       xml:space="preserve"><tspan
+         x="90.641937"
+         y="27.481623"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.46944px;font-family:Inter;-inkscape-font-specification:Inter">0.87</tspan></tspan></text>
+    <path
+       id="path822-7"
+       style="display:inline;opacity:1;fill:#ecd2a5;fill-opacity:1;stroke:#ecd2a5;stroke-width:0.1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 225.22174,84.459238 10.33732,2.377407 10.20618,-1.231108 8.86882,-24.811014 -8.742,2.936731 -5.66219,10.863948 -7.16764,-0.05276 -13.36363,-0.621537 z"
+       sodipodi:nodetypes="ccccccccc" />
+    <text
+       id="text2876-1"
+       y="62.474792"
+       x="237.88051"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:2.82222px;line-height:0.7;font-family:'Zilla Slab Highlight';-inkscape-font-specification:'Zilla Slab Highlight Bold';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;stroke-width:0.264583"
+       xml:space="preserve"><tspan
+         id="tspan2882-1"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:2.82222px;font-family:'Zilla Slab Highlight';-inkscape-font-specification:'Zilla Slab Highlight Bold';text-align:center;text-anchor:middle;stroke-width:0.264583"
+         y="62.474792"
+         x="237.88051"
+         sodipodi:role="line">Sand</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.46944444px;line-height:1.25;font-family:Inter;-inkscape-font-specification:Inter;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;white-space:pre;inline-size:44.0282;stroke-width:0.264583;"
+       x="90.641937"
+       y="27.481623"
+       id="text2632-6-0-7-5-0-7-3"
+       transform="translate(146.6579,65.057677)"><tspan
+         x="90.641937"
+         y="27.481623"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.46944px;font-family:Inter;-inkscape-font-specification:Inter">only use in airports that are literally</tspan><tspan></tspan><tspan
+           y="27.481623"> </tspan></tspan><tspan
+         x="90.641937"
+         y="30.568429"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.46944px;font-family:Inter;-inkscape-font-specification:Inter">sand, not just any ol' random beach</tspan></tspan></text>
+    <text
+       id="text1332"
+       y="15.517743"
+       x="400.95758"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:3.88056px;line-height:1.25;font-family:'Zilla Slab';-inkscape-font-specification:'Zilla Slab Bold';text-align:end;letter-spacing:0px;word-spacing:0px;text-anchor:end;display:inline;opacity:1;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264999;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       xml:space="preserve"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:3.88056px;font-family:'Zilla Slab';-inkscape-font-specification:'Zilla Slab Bold';text-align:end;text-anchor:end;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264999;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         y="15.517743"
+         x="400.95758"
+         id="tspan1330"
+         sodipodi:role="line">d Mmm yy</tspan></text>
+    <g
+       id="g1553"
+       style="display:inline;opacity:1"
+       transform="rotate(90,230.63693,108.39369)">
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:5.29166667px;line-height:1.25;font-family:Inter;-inkscape-font-specification:'Inter Semi-Bold';text-align:end;letter-spacing:0px;word-spacing:0px;text-anchor:end;stroke-width:0.264583;"
+         x="-179.86594"
+         y="159.91721"
+         id="text1547"
+         transform="rotate(-90)"><tspan
+           sodipodi:role="line"
+           id="tspan1545"
+           x="-179.86594"
+           y="159.91721"
+           style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-family:Inter;-inkscape-font-specification:'Inter Semi-Bold';text-align:end;text-anchor:end;stroke-width:0.264583;font-size:5.29166667px;">1826'</tspan></text>
+      <text
+         transform="rotate(-90)"
+         id="text1551"
+         y="159.8362"
+         x="-179.55817"
+         style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:2.82222222px;line-height:1.25;font-family:Inter;-inkscape-font-specification:'Inter Semi-Bold';letter-spacing:0px;word-spacing:0px;display:inline;stroke-width:0.264583;"
+         xml:space="preserve"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-family:Inter;-inkscape-font-specification:'Inter Semi-Bold';stroke-width:0.264583;font-size:2.82222222px;"
+           y="159.8362"
+           x="-179.55817"
+           id="tspan1549"
+           sodipodi:role="line">557m</tspan></text>
+    </g>
+  </g>
+</svg>
