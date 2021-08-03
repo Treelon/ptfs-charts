@@ -1,4 +1,10 @@
 # PTFS Charts
+## Contributing
+1. Fork this repository by clicking "Fork" at the top right
+2. Use Git or GitHub Desktop to access the repo on your computer.
+3. Make the changes you wish to make to a `.svg` file using Inkscape.
+4. Create a pull request in this repository to merge your changes.
+
 ## Requirements
 ### Inkscape
 To contribute to these charts, you will need to install a copy of inkscape, which can be downloaded [here](https://inkscape.org/release).
@@ -18,9 +24,3 @@ Alternatively, these fonts can be installed from these websites:
 - Zilla Slab Highlight: https://fonts.google.com/specimen/Zilla+Slab+Highligh
 - Metropolis: https://fontsarena.com/metropolis-by-chris-simpson/
 - Inter: https://fonts.google.com/specimen/Inter
-
-## How to contribute
-1. Fork this repository by clicking "Fork" at the top right
-2. Use Git or GitHub Desktop to access the repo on your computer.
-3. Make the changes you wish to make to an svg file using Inkscape.
-4. Create a pull request in this repository and click on "Compare accross forks"
