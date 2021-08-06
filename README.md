@@ -5,6 +5,8 @@
 3. Make the changes you wish to make to a `.svg` file using Inkscape.
 4. Create a pull request in this repository to merge your changes.
 
+Tutorial: https://www.youtube.com/watch?v=zbvkqYN5a64
+
 ## Requirements
 ### Inkscape
 To contribute to these charts, you will need to install a copy of inkscape, which can be downloaded [here](https://inkscape.org/release).
