@@ -1,4 +1,7 @@
 # PTFS Charts
+## Attributing
+Want to include these charts in your project? These charts are licensed under the [CC-BY-SA-4.0 License](https://creativecommons.org/licenses/by-sa/4.0/). The full text can be viewed at [LICENSE.txt](LICENSE.txt). Make sure to provide propper attribution to the PTFS Charts Contributors!
+
 ## Contributing
 1. Fork this repository by clicking "Fork" at the top right
 2. Use Git or GitHub Desktop to access the repo on your computer.
@@ -18,7 +21,7 @@ You will also need to install these fonts:
 - Metropolis
 - Inter
 
-These fonts and their licenses can be located in the [_Fonts](./_Fonts) directory in this repo. Select all the `.tff` files for each of the fonts, right click, and click on install.
+These fonts and their licenses can be located in the [_Fonts](_Fonts) directory in this repo. Select all the `.tff` files for each of the fonts, right click, and click on install.
 
 Alternatively, these fonts can be installed from these websites:
 
