@@ -1,6 +1,6 @@
 # PTFS Charts
 ## Attributing
-Want to include these charts in your project? These charts are licensed under the [CC-BY-SA-4.0 License](https://creativecommons.org/licenses/by-sa/4.0/). The full text can be viewed at [LICENSE.txt](LICENSE.txt). Make sure to provide propper attribution in your usage!
+Want to include these charts in your project? These charts are licensed under the [CC-BY-SA-4.0 License](https://creativecommons.org/licenses/by-sa/4.0/). The full text can be viewed at [LICENSE.txt](LICENSE.txt). Make sure to provide propper attribution in your project!
 
 Example attribution: "The PTFS Charts are available at https://github.com/Treelon/ptfs-charts, and are licensed under the [CC BY SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/)."
 
