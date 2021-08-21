@@ -14,7 +14,7 @@ Tutorial: https://www.youtube.com/watch?v=zbvkqYN5a64
 
 ## Requirements
 ### Inkscape
-To contribute to these charts, you will need to install a copy of inkscape, which can be downloaded [here](https://inkscape.org/release).
+To contribute to these charts, you will need to install a copy of Inkscape, which can be downloaded [here](https://inkscape.org/release).
 
 ### Fonts
 You will also need to install these fonts:
