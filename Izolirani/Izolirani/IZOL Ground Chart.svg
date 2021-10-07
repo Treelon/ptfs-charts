@@ -5,7 +5,7 @@
    viewBox="0 0 210.00001 297"
    version="1.1"
    id="svg8"
-   inkscape:version="1.1 (c68e22c387, 2021-05-23)"
+   inkscape:version="1.1.1 (3bf5ae0d25, 2021-09-20)"
    sodipodi:docname="IZOL Ground Chart.svg"
    inkscape:export-xdpi="218.93604"
    inkscape:export-ydpi="218.93604"
@@ -716,11 +716,11 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="4.0000004"
-     inkscape:cx="631.62494"
-     inkscape:cy="476.37495"
+     inkscape:zoom="0.70710678"
+     inkscape:cx="802.56619"
+     inkscape:cy="532.4514"
      inkscape:document-units="mm"
-     inkscape:current-layer="layer6"
+     inkscape:current-layer="g1789"
      showgrid="false"
      fit-margin-top="0"
      fit-margin-left="0"
@@ -2117,5 +2117,150 @@
          y="184.08382"
          style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:3.52778px;font-family:Metropolis;-inkscape-font-specification:'Metropolis, Medium';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;text-anchor:middle;stroke-width:0.264583"
          id="tspan1546">Station</tspan></text>
+    <g
+       id="g1533"
+       style="display:inline"
+       transform="matrix(0.90261185,0,0,0.90261185,-18.825014,86.467649)">
+      <circle
+         cx="4.1810803"
+         cy="-521.11975"
+         r="22.090488"
+         id="path4284-1"
+         style="display:inline;fill:none;stroke:#ad005b;stroke-width:0.3;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         transform="rotate(90)" />
+      <path
+         style="display:inline;fill:none;stroke:#ad005b;stroke-width:0.3;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         d="m 526.27649,25.66125 0.9167,3.45764"
+         id="path1878-9-8"
+         sodipodi:nodetypes="cc" />
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:2.82223px;line-height:1.25;font-family:Inter;-inkscape-font-specification:'Inter Bold';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;display:inline;fill:#ad005b;fill-opacity:1;stroke-width:0.264999;stroke-miterlimit:4;stroke-dasharray:none"
+         x="528.48193"
+         y="32.02219"
+         id="text3490-5-3-5-7-1"><tspan
+           sodipodi:role="line"
+           id="tspan3488-3-9-8-8-5"
+           x="528.48193"
+           y="32.02219"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:2.82223px;font-family:Inter;-inkscape-font-specification:'Inter Bold';text-align:center;text-anchor:middle;fill:#ad005b;fill-opacity:1;stroke-width:0.264999;stroke-miterlimit:4;stroke-dasharray:none">HS1</tspan></text>
+      <rect
+         y="29.118885"
+         x="525.22876"
+         height="3.7550786"
+         width="6.3604894"
+         id="rect1902-0-8-92"
+         style="display:inline;fill:none;fill-opacity:1;fill-rule:nonzero;stroke:#ad005b;stroke-width:0.3;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+    </g>
+    <g
+       id="g1789"
+       transform="matrix(0.89666486,0,0,0.89666486,537.5736,-236.42005)"
+       style="display:inline">
+      <rect
+         style="display:inline;fill:none;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:0.292505;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         id="rect1876"
+         width="61.315502"
+         height="36.685394"
+         x="-7.3274188"
+         y="108.65002"
+         ry="0" />
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:2.99861px;line-height:1.15;font-family:Metropolis;-inkscape-font-specification:'Metropolis Medium';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;display:inline;stroke-width:0.264583"
+         x="23.281862"
+         y="112.15628"
+         id="text3466-3-2"><tspan
+           id="tspan2032-0"
+           sodipodi:role="line"
+           x="23.281862"
+           y="112.15628"
+           style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:2.99861px;font-family:Metropolis;-inkscape-font-specification:'Metropolis Medium';text-align:center;text-anchor:middle;stroke-width:0.264583">HOT SPOT</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:2.99861px;line-height:1.15;font-family:Metropolis;-inkscape-font-specification:'Metropolis Medium';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;display:inline;stroke-width:0.264583"
+         x="23.292265"
+         y="123.18567"
+         id="text3466-3-9"><tspan
+           sodipodi:role="line"
+           x="23.292265"
+           y="123.18567"
+           style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:2.99861px;font-family:Metropolis;-inkscape-font-specification:'Metropolis Medium';text-align:center;text-anchor:middle;stroke-width:0.264583"
+           id="tspan2254">For information only,</tspan><tspan
+           sodipodi:role="line"
+           x="23.292265"
+           y="126.63407"
+           style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:2.99861px;font-family:Metropolis;-inkscape-font-specification:'Metropolis Medium';text-align:center;text-anchor:middle;stroke-width:0.264583"
+           id="tspan2258">not to be construed as</tspan><tspan
+           sodipodi:role="line"
+           x="23.292265"
+           y="130.08247"
+           style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:2.99861px;font-family:Metropolis;-inkscape-font-specification:'Metropolis Medium';text-align:center;text-anchor:middle;stroke-width:0.264583"
+           id="tspan1686-0">ATC instructions.</tspan></text>
+      <rect
+         style="display:inline;fill:none;fill-opacity:1;fill-rule:nonzero;stroke:#ad005b;stroke-width:0.3;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         id="rect1902-0-4-4-5-5"
+         width="6.4696817"
+         height="3.8520765"
+         x="-5.857656"
+         y="133.57254" />
+      <text
+         transform="translate(277.41384,77.9021)"
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:2.99861px;line-height:1.15;font-family:Metropolis;-inkscape-font-specification:'Metropolis Medium';letter-spacing:0px;word-spacing:0px;white-space:pre;inline-size:46.7446;display:inline;stroke-width:0.264583"
+         x="-274.05939"
+         y="57.701035"
+         id="text3466-3-4-0"><tspan
+           x="-274.05939"
+           y="57.701035"
+           id="tspan24519">Several taxi routes close together.
+</tspan><tspan
+           x="-274.05939"
+           y="61.149436"
+           id="tspan24521">Ensure wing clearance when
+</tspan><tspan
+           x="-274.05939"
+           y="64.597839"
+           id="tspan24523">moving on and holding short.</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:2.82222px;line-height:1.25;font-family:Inter;-inkscape-font-specification:'Inter Bold';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;display:inline;fill:#ad005b;fill-opacity:1;stroke-width:0.264583"
+         x="-2.6365955"
+         y="136.52434"
+         id="text1874-0"><tspan
+           sodipodi:role="line"
+           id="tspan1872-3"
+           x="-2.6365955"
+           y="136.52434"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:2.82222px;font-family:Inter;-inkscape-font-specification:'Inter Bold';text-align:center;text-anchor:middle;fill:#ad005b;fill-opacity:1;stroke-width:0.264583">HS1</tspan></text>
+      <rect
+         y="115.11777"
+         x="12.931393"
+         height="3.7859325"
+         width="7.2799721"
+         id="rect1902-0-4-4"
+         style="display:inline;fill:none;fill-opacity:1;fill-rule:nonzero;stroke:#ad005b;stroke-width:0.3;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+      <path
+         style="display:inline;fill:none;stroke:#ad005b;stroke-width:0.3;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         d="m 20.211372,117.01074 h 6.44333"
+         id="path2179"
+         sodipodi:nodetypes="cc" />
+      <circle
+         style="display:inline;fill:none;fill-opacity:1;fill-rule:nonzero;stroke:#ad005b;stroke-width:0.3;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         id="path2181"
+         cx="30.191982"
+         cy="117.01073"
+         r="3.5372891" />
+      <text
+         id="text1874-8-7"
+         y="118.03649"
+         x="16.537554"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:2.82222px;line-height:1.25;font-family:Inter;-inkscape-font-specification:'Inter Bold';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;display:inline;fill:#ad005b;fill-opacity:1;stroke-width:0.264583"
+         xml:space="preserve"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:2.82222px;font-family:Inter;-inkscape-font-specification:'Inter Bold';text-align:center;text-anchor:middle;fill:#ad005b;fill-opacity:1;stroke-width:0.264583"
+           y="118.03649"
+           x="16.537554"
+           id="tspan1872-4-9"
+           sodipodi:role="line">HS</tspan></text>
+    </g>
   </g>
 </svg>
