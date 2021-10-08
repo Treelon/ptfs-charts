@@ -1,4 +1,8 @@
+
 # PTFS Charts
+## About This Contribution
+This repository has been created to allow [Cameron Peck](https://github.com/cameronPeckDev) to create pull requests for additions or changes for the [PTFS Charts Project](https://github.com/Treelon/ptfs-charts) by [Treelon](https://github.com/Treelon). I don't own this repository, this has just been created so that I can help enhance it.
+
 ## Attributing
 Want to include these charts in your project? These charts are licensed under the [CC-BY-SA-4.0 License](https://creativecommons.org/licenses/by-sa/4.0/). The full text can be viewed at [LICENSE.txt](LICENSE.txt). Make sure to provide proper attribution in your project!
 
