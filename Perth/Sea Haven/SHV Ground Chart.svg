@@ -7,7 +7,7 @@
    viewBox="0 0 210 297"
    version="1.1"
    id="svg1214"
-   inkscape:version="1.1 (c68e22c387, 2021-05-23)"
+   inkscape:version="1.1.1 (3bf5ae0d25, 2021-09-20)"
    sodipodi:docname="SHV Ground Chart.svg"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
@@ -25,13 +25,13 @@
      showgrid="false"
      inkscape:snap-global="true"
      inkscape:snap-bbox="true"
-     inkscape:zoom="1"
-     inkscape:cx="235.5"
-     inkscape:cy="564"
-     inkscape:window-width="2048"
-     inkscape:window-height="1130"
-     inkscape:window-x="-6"
-     inkscape:window-y="-6"
+     inkscape:zoom="1.4142136"
+     inkscape:cx="484.01459"
+     inkscape:cy="323.50135"
+     inkscape:window-width="1920"
+     inkscape:window-height="1177"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
      inkscape:window-maximized="1"
      inkscape:current-layer="layer1" />
   <defs
@@ -106,17 +106,10 @@
      inkscape:label="Lag 1"
      inkscape:groupmode="layer"
      id="layer1">
-    <rect
-       style="opacity:1;fill:#d0d0ff;fill-opacity:1;stroke:none;stroke-width:0.0995925;stroke-linejoin:round;stroke-opacity:1"
-       id="rect19263"
-       width="165.44926"
-       height="263.26041"
-       x="21.678177"
-       y="30.565889" />
     <path
-       style="fill:#ffffff;stroke:none;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;fill-opacity:1"
-       d="m 93.45079,30.495451 -7.577093,27.969758 -0.280633,159.586631 -1.96443,4.77076 -7.670636,37.60482 -6.641648,32.9276 -0.210473,0.39758 -46.93587,-0.11693 -0.07016,-263.046673 z"
-       id="path16734" />
+       style="fill:#d0d0ff;stroke:none;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;fill-opacity:1"
+       d="m 69.31635,293.35502 14.312284,-70.53242 1.964428,-4.77076 0.280633,-159.586631 7.577095,-27.969758 93.67665,0.07044 V 293.8263 L 69.31635,293.35502"
+       id="path1201" />
     <path
        style="display:inline;fill:none;stroke:#000000;stroke-width:0.601922;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        d="M 21.678176,30.565889 H 187.392"
@@ -256,7 +249,7 @@
          y="15.656549"
          x="96.081116"
          id="tspan1330"
-         sodipodi:role="line">25 Dec 21</tspan></text>
+         sodipodi:role="line">31 Jan 22</tspan></text>
     <path
        style="fill:#b3b3b3;stroke:none;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;fill-opacity:1"
        d="m 85.791145,134.01146 -10.980208,0.0661 0.06615,-10.64948 H 32.676041 l 0.198438,52.98282 h 56.157812 l -0.06615,-6.81303 -11.972396,0.0661 -2.182812,-1.98437 0.198437,-29.36875 h 10.715625 z"
@@ -380,22 +373,22 @@
        id="text2632-6-0-7"><tspan
          x="90.641937"
          y="27.481623"
-         id="tspan9099">The feet number is alligned right, and<tspan
+         id="tspan2987">The feet number is alligned right, and<tspan
    y="27.481623"
-   id="tspan9101"> </tspan></tspan><tspan
+   id="tspan2989"> </tspan></tspan><tspan
          x="90.641937"
          y="30.568423"
-         id="tspan9103">the meter number is alligned left, so<tspan
+         id="tspan2991">the meter number is alligned left, so<tspan
    y="30.568423"
-   id="tspan9105"> </tspan></tspan><tspan
+   id="tspan2993"> </tspan></tspan><tspan
          x="90.641937"
          y="33.655222"
-         id="tspan9107">you can just edit the numbers<tspan
+         id="tspan2995">you can just edit the numbers<tspan
    y="33.655222"
-   id="tspan9109"> </tspan></tspan><tspan
+   id="tspan2997"> </tspan></tspan><tspan
          x="90.641937"
          y="36.742022"
-         id="tspan9111">without worrying about allignment.</tspan></text>
+         id="tspan2999">without worrying about allignment.</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:2.82222px;line-height:0.7;font-family:'Zilla Slab Highlight';-inkscape-font-specification:'Zilla Slab Highlight Bold';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;stroke-width:0.264583"
@@ -466,19 +459,19 @@
          id="text3466-3-4"><tspan
            x="-274.05939"
            y="57.701035"
-           id="tspan9113">Converging taxiways. Potential </tspan><tspan
+           id="tspan3001">Converging taxiways. Potential </tspan><tspan
            x="-274.05939"
            y="61.149436"
-           id="tspan9115">for RWY incursion. Pay attention </tspan><tspan
+           id="tspan3003">for RWY incursion. Pay attention </tspan><tspan
            x="-274.05939"
            y="64.597839"
-           id="tspan9117">to signage and ATC instruction. </tspan><tspan
+           id="tspan3005">to signage and ATC instruction. </tspan><tspan
            x="-274.05939"
            y="68.046237"
-           id="tspan9119">Pilots must ensure wingtip </tspan><tspan
+           id="tspan3007">Pilots must ensure wingtip </tspan><tspan
            x="-274.05939"
            y="71.49464"
-           id="tspan9121">clearance.</tspan></text>
+           id="tspan3009">clearance.</tspan></text>
       <text
          xml:space="preserve"
          style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:2.82222px;line-height:1.25;font-family:Inter;-inkscape-font-specification:'Inter Bold';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;display:inline;fill:#ad005b;fill-opacity:1;stroke-width:0.264583"
@@ -529,12 +522,12 @@
        xml:space="preserve"><tspan
          x="155.05766"
          y="58.762104"
-         id="tspan9123">The box height can be increased to make<tspan
+         id="tspan3011">The box height can be increased to make<tspan
    y="58.762104"
-   id="tspan9125"> </tspan></tspan><tspan
+   id="tspan3013"> </tspan></tspan><tspan
          x="155.05766"
          y="61.848902"
-         id="tspan9127">space for more hotspot information.</tspan></text>
+         id="tspan3015">space for more hotspot information.</tspan></text>
     <path
        d="m 367.75749,72.046123 -2.42156,-0.66197 -0.0801,0.28887 2.42362,0.66249 z m -0.0661,-1.40249 -0.0429,-0.29663 -2.64687,0.38086 0.0434,0.29714 z m -0.7953,2.68407 -2.0991,-1.28933 -0.15865,0.2558 2.09962,1.28933 z m -2.39417,-1.89291 c -0.002,-0.0709 -0.0172,-0.14055 -0.0491,-0.20671 -0.0319,-0.0661 -0.0896,-0.14129 -0.1912,-0.16019 l -2.0314,-0.37879 c -0.003,-5.9e-4 -0.006,-0.001 -0.008,-0.002 l -0.0248,-0.005 -5.1e-4,0.002 c -0.0319,-0.005 -0.0639,-0.01 -0.0971,-0.01 -0.34899,0 -0.63459,0.28766 -0.63458,0.63665 0,0.0582 0.0104,0.11376 0.0253,0.16743 l -0.002,5.21e-4 0.6289,2.26188 0.28887,-0.0801 -0.48472,-1.74408 c 0.0569,0.0169 0.11605,0.0289 0.17828,0.0289 0.0292,0 0.0571,-0.005 0.0853,-0.009 l 5.3e-4,0.003 0.0398,-0.007 h 0.002 c 3.7e-4,-8e-5 6.6e-4,-4.39e-4 0.001,-5.21e-4 l 0.41027,-0.0723 c 0.18368,-0.0325 0.36318,-0.0461 0.55294,-0.0486 l 1.04697,-0.014 c 0.10156,-0.004 0.18726,-0.0794 0.22221,-0.15038 0.0349,-0.071 0.0436,-0.14202 0.0413,-0.21291 z m -0.30076,0.01 c 8.5e-4,0.0261 -0.004,0.0419 -0.008,0.0548 l -1.00614,0.0134 c -0.16691,0.002 -0.33266,0.0145 -0.50126,0.0382 0.0304,-0.074 0.0481,-0.15465 0.0481,-0.23926 0,-0.0817 -0.017,-0.15939 -0.0455,-0.23151 l 1.495,0.27854 c 0.008,0.0168 0.0165,0.0522 0.0176,0.0858 z m -1.76578,-0.13281 c 0,0.16142 -0.11126,0.29267 -0.262,0.32556 l -0.0145,0.003 c -0.0193,0.003 -0.0391,0.006 -0.0594,0.006 -0.14951,0 -0.27317,-0.0945 -0.31729,-0.22789 l -0.005,-0.0181 h -5.3e-4 c -0.007,-0.028 -0.0129,-0.0572 -0.0129,-0.0879 -10e-6,-0.18686 0.14903,-0.33589 0.33589,-0.33589 0.0216,0 0.0426,0.002 0.063,0.006 l 0.009,0.002 c 0.15183,0.0325 0.26407,0.16598 0.26407,0.32815 z"
        style="color:#000000;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:medium;line-height:normal;font-family:sans-serif;font-variant-ligatures:normal;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-alternates:normal;font-variant-east-asian:normal;font-feature-settings:normal;font-variation-settings:normal;text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:normal;word-spacing:normal;text-transform:none;writing-mode:lr-tb;direction:ltr;text-orientation:mixed;dominant-baseline:auto;baseline-shift:baseline;text-anchor:start;white-space:normal;shape-padding:0;shape-margin:0;inline-size:0;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;vector-effect:none;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.3;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate;stop-color:#000000"
@@ -686,12 +679,12 @@
        xml:space="preserve"><tspan
          x="90.641937"
          y="27.481623"
-         id="tspan9129">Generally used for taxiways, parking<tspan
+         id="tspan3017">Generally used for taxiways, parking<tspan
    y="27.481623"
-   id="tspan9131"> </tspan></tspan><tspan
+   id="tspan3019"> </tspan></tspan><tspan
          x="90.641937"
          y="30.568423"
-         id="tspan9133">numbers, and most labels.</tspan></text>
+         id="tspan3021">numbers, and most labels.</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.46944px;line-height:1.25;font-family:Inter;-inkscape-font-specification:Inter;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;white-space:pre;inline-size:44.0282;stroke-width:0.264583"
@@ -701,7 +694,7 @@
        transform="translate(410.68333,94.107613)"><tspan
          x="90.641937"
          y="27.481623"
-         id="tspan9135">Generally used for apron labels.</tspan></text>
+         id="tspan3023">Generally used for apron labels.</tspan></text>
     <path
        inkscape:connector-curvature="0"
        id="path828"
@@ -727,12 +720,12 @@
        transform="translate(261.56316,136.49115)"><tspan
          x="155.05766"
          y="58.762104"
-         id="tspan9137">Fill and Stroke for most paths in the<tspan
+         id="tspan3025">Fill and Stroke for most paths in the<tspan
    y="58.762104"
-   id="tspan9139"> </tspan></tspan><tspan
+   id="tspan3027"> </tspan></tspan><tspan
          x="155.05766"
          y="61.848902"
-         id="tspan9141">&quot;Runways / Buildings&quot; layer.</tspan></text>
+         id="tspan3029">&quot;Runways / Buildings&quot; layer.</tspan></text>
     <path
        sodipodi:nodetypes="ccccccccc"
        d="m 442.05264,150.26958 9.64282,22.7462 24.54012,9.91634 3.37778,-6.64433 -3.85389,-6.81967 4.59161,-6.63333 -15.97578,-1.85142 -10.17552,-6.33782 z"
@@ -758,12 +751,12 @@
        xml:space="preserve"><tspan
          x="155.05766"
          y="58.762104"
-         id="tspan9143">Fill and Stroke for most paths in the<tspan
+         id="tspan3031">Fill and Stroke for most paths in the<tspan
    y="58.762104"
-   id="tspan9145"> </tspan></tspan><tspan
+   id="tspan3033"> </tspan></tspan><tspan
          x="155.05766"
          y="61.848902"
-         id="tspan9147">&quot;Taxiways / Ramps&quot; layer.</tspan></text>
+         id="tspan3035">&quot;Taxiways / Ramps&quot; layer.</tspan></text>
     <path
        sodipodi:nodetypes="ccccc"
        style="display:inline;fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:0.2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
@@ -828,12 +821,12 @@
        transform="translate(350.70872,136.56611)"><tspan
          x="155.05766"
          y="58.762104"
-         id="tspan9149">Put in layout layer but make sure it's<tspan
+         id="tspan3037">Put in layout layer but make sure it's<tspan
    y="58.762104"
-   id="tspan9151"> </tspan></tspan><tspan
+   id="tspan3039"> </tspan></tspan><tspan
          x="155.05766"
          y="61.848902"
-         id="tspan9153">lowered to bottom.
+         id="tspan3041">lowered to bottom.
 </tspan></text>
     <g
        id="g1236"
@@ -896,12 +889,12 @@
        transform="translate(337.3654,37.25099)"><tspan
          x="2.0856352"
          y="28.368443"
-         id="tspan9155">Hold short<tspan
+         id="tspan3043">Hold short<tspan
    y="28.368443"
-   id="tspan9157"> </tspan></tspan><tspan
+   id="tspan3045"> </tspan></tspan><tspan
          x="2.0856352"
          y="31.501107"
-         id="tspan9159">point</tspan></text>
+         id="tspan3047">point</tspan></text>
     <path
        id="path1319-8"
        d="m 537.52303,116.44665 -5.35092,-1.5177 -0.24923,0.82956 5.35267,1.5182 z"
@@ -947,7 +940,7 @@
        xml:space="preserve"><tspan
          x="155.05766"
          y="58.762104"
-         id="tspan9161">unpaved runway</tspan></text>
+         id="tspan3049">unpaved runway</tspan></text>
     <text
        transform="translate(443.83033,94.20925)"
        id="text2632-6-0-7-5-0-7"
@@ -957,7 +950,7 @@
        xml:space="preserve"><tspan
          x="90.641937"
          y="27.481623"
-         id="tspan9163">0.87</tspan></text>
+         id="tspan3051">0.87</tspan></text>
     <path
        id="path822-7"
        style="display:inline;fill:#ecd2a5;fill-opacity:1;stroke:#ecd2a5;stroke-width:0.1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
@@ -1097,7 +1090,7 @@
        transform="translate(-59.481441,164.75134)"><tspan
          x="90.641937"
          y="27.481623"
-         id="tspan9165">Hangar</tspan></text>
+         id="tspan3053">Hangar</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.46944px;line-height:1.25;font-family:Inter;-inkscape-font-specification:Inter;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;white-space:pre;inline-size:44.0282;stroke-width:0.264583"
@@ -1107,6 +1100,6 @@
        transform="translate(-58.707697,81.099768)"><tspan
          x="90.641937"
          y="27.481623"
-         id="tspan9167">Hangar</tspan></text>
+         id="tspan3055">Hangar</tspan></text>
   </g>
 </svg>
