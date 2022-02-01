@@ -8,7 +8,7 @@
    version="1.1"
    id="svg5"
    inkscape:version="1.1.1 (3bf5ae0d25, 2021-09-20)"
-   sodipodi:docname="IOGC_Heliport_Chart.svg"
+   sodipodi:docname="IOCG Heliport Chart.svg"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns="http://www.w3.org/2000/svg"
@@ -24,11 +24,11 @@
      inkscape:document-units="mm"
      showgrid="false"
      inkscape:snap-bbox="true"
-     inkscape:zoom="0.70710678"
-     inkscape:cx="418.60721"
-     inkscape:cy="542.3509"
+     inkscape:zoom="1"
+     inkscape:cx="271.5"
+     inkscape:cy="497.5"
      inkscape:window-width="1920"
-     inkscape:window-height="1137"
+     inkscape:window-height="1177"
      inkscape:window-x="-8"
      inkscape:window-y="-8"
      inkscape:window-maximized="1"
@@ -78,13 +78,6 @@
      inkscape:label="Lag 1"
      inkscape:groupmode="layer"
      id="layer1">
-    <rect
-       style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.264999;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       id="rect6157"
-       width="165.44926"
-       height="263.26044"
-       x="22.727829"
-       y="32.014977" />
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:3.175px;line-height:1.1;font-family:Metropolis;-inkscape-font-specification:'Metropolis Medium';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;display:inline;stroke-width:0.264583"
@@ -229,11 +222,6 @@
          y="15.334772"
          x="21.620928"
          sodipodi:role="line">Apt Elev</tspan></text>
-    <path
-       sodipodi:nodetypes="ccc"
-       style="display:inline;fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       d="M 0.13241677,23.945188 V 0.13268877 H 49.080337"
-       id="path3867" />
     <text
        id="text1332"
        y="15.650431"
@@ -244,7 +232,7 @@
          y="15.650431"
          x="96.072426"
          id="tspan1330"
-         sodipodi:role="line">30 Jan 22</tspan></text>
+         sodipodi:role="line">31 Jan 22</tspan></text>
     <path
        style="fill:#b3b3b3;stroke:none;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;fill-opacity:1"
        d="m 54.349258,149.95157 33.395327,49.20432 1.777341,-1.12254 17.118614,25.35052 54.72344,-36.76293 -50.79458,-75.11609 z"

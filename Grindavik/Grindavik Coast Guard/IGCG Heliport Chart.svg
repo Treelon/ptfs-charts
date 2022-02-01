@@ -7,7 +7,7 @@
    viewBox="0 0 210 297"
    version="1.1"
    id="svg2434"
-   inkscape:version="1.1 (c68e22c387, 2021-05-23)"
+   inkscape:version="1.1.1 (3bf5ae0d25, 2021-09-20)"
    sodipodi:docname="IGCG Heliport Chart.svg"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
@@ -26,11 +26,11 @@
      inkscape:snap-global="true"
      inkscape:zoom="0.70710678"
      inkscape:cx="218.496"
-     inkscape:cy="602.45498"
-     inkscape:window-width="2048"
-     inkscape:window-height="1130"
-     inkscape:window-x="-6"
-     inkscape:window-y="-6"
+     inkscape:cy="603.16209"
+     inkscape:window-width="1920"
+     inkscape:window-height="1177"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
      inkscape:window-maximized="1"
      inkscape:current-layer="layer1" />
   <defs
@@ -94,13 +94,6 @@
      inkscape:label="Lag 1"
      inkscape:groupmode="layer"
      id="layer1">
-    <rect
-       style="opacity:1;fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.264999;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       id="rect35909"
-       width="165.44926"
-       height="263.26041"
-       x="21.66975"
-       y="30.559986" />
     <rect
        style="opacity:1;fill:#b3b3b3;fill-rule:evenodd;stroke-width:0.480999;fill-opacity:1"
        id="rect30590"
@@ -268,7 +261,7 @@
          y="15.650646"
          x="92.368523"
          id="tspan1330"
-         sodipodi:role="line">25 Dec 21</tspan></text>
+         sodipodi:role="line">31 Jan 22</tspan></text>
     <path
        sodipodi:nodetypes="cc"
        id="path4516-4-5-6-5"

@@ -7,7 +7,7 @@
    viewBox="0 0 210 297"
    version="1.1"
    id="svg76398"
-   inkscape:version="1.1 (c68e22c387, 2021-05-23)"
+   inkscape:version="1.1.1 (3bf5ae0d25, 2021-09-20)"
    sodipodi:docname="TVO Ground Chart.svg"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
@@ -24,16 +24,16 @@
      inkscape:pagecheckerboard="0"
      inkscape:document-units="mm"
      showgrid="false"
-     inkscape:zoom="0.38885732"
-     inkscape:cx="1953.1585"
-     inkscape:cy="591.47658"
-     inkscape:window-width="2048"
-     inkscape:window-height="1130"
-     inkscape:window-x="-6"
-     inkscape:window-y="-6"
+     inkscape:zoom="1.0998546"
+     inkscape:cx="467.78911"
+     inkscape:cy="362.32062"
+     inkscape:window-width="1920"
+     inkscape:window-height="1177"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
      inkscape:window-maximized="1"
      inkscape:current-layer="layer1"
-     inkscape:snap-global="false"
+     inkscape:snap-global="true"
      inkscape:snap-bbox="true"
      showguides="false" />
   <defs
@@ -109,21 +109,15 @@
      id="layer1">
     <path
        style="fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       d="m 109.35811,215.48959 c 17.18601,-24.48169 34.37213,-48.96354 51.55838,-73.44557"
+       d="m 112.72709,217.09873 c 17.18601,-24.48169 34.37213,-48.96354 51.55838,-73.44557"
        id="path26806"
        inkscape:path-effect="#path-effect26808"
-       inkscape:original-d="m 109.35811,215.48959 c 17.18626,-24.48152 34.37238,-48.96337 51.55838,-73.44557" />
-    <rect
-       style="opacity:1;fill:#d0d0ff;fill-opacity:1;stroke:none;stroke-width:0.11024;stroke-linejoin:round"
-       id="rect94421"
-       width="165.0031"
-       height="263.07208"
-       x="22.131714"
-       y="30.791948" />
+       inkscape:original-d="m 112.72709,217.09873 c 17.18626,-24.48152 34.37238,-48.96337 51.55838,-73.44557" />
     <path
-       style="fill:#ffffff;stroke:none;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;fill-opacity:1"
-       d="M 22.131713,30.791949 167.5515,30.551387 156.36536,46.308203 118.11599,75.65678 102.8403,89.248537 51.961414,128.94128 l -19.244968,60.9825 -3.728712,7.81827 -6.73574,22.49255 z"
-       id="path87115" />
+       style="fill:#d0d0ff;fill-opacity:1;stroke:none;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 22.251994,220.2346 6.73574,-22.49255 3.728712,-7.81827 19.244968,-60.9825 50.411106,-40.245578 29.33523,-23.503372 24.65761,-18.884127 11.18614,-15.756816 19.58331,0.240562 V 293.86405 H 22.131713 l 0.120281,-73.62945"
+       id="path1692"
+       sodipodi:nodetypes="cccccccccccc" />
     <path
        style="display:inline;fill:none;stroke:#000000;stroke-width:0.601922;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        d="M 21.685545,30.603601 H 187.39938"
@@ -263,7 +257,7 @@
          y="15.694263"
          x="96.088486"
          id="tspan1330"
-         sodipodi:role="line">25 Dec 21</tspan></text>
+         sodipodi:role="line">31 Jan 22</tspan></text>
     <path
        style="fill:#b3b3b3;stroke:none;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;fill-opacity:1"
        d="m 131.70775,65.19233 -13.3512,10.705012 8.05883,8.780515 -1.80421,1.683936 -7.45743,-7.697986 -6.9763,5.773489 7.57771,8.179112 -3.00703,2.405621 -8.53995,-9.502204 -2.40562,1.804218 -3.00703,-3.007027 -50.999165,39.692744 -20.327498,64.47064 2.165059,0.60141 -0.841967,3.00703 -5.65321,-1.56366 21.65059,-68.43991 2.5259,-1.80422 -19.124686,-20.808621 69.763009,-53.76563 -3.848994,-3.969276 3.367871,-2.766462 6.014051,6.01405 6.61546,-4.690959 4.81124,5.653209 -15.03513,11.306418 11.78754,12.870072 13.23092,-9.983327 z"
@@ -642,7 +636,7 @@
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:5.29167px;line-height:1.25;font-family:Inter;-inkscape-font-specification:'Inter Semi-Bold';fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
        id="text27910"
-       transform="translate(23.283336,-22.754171)"><textPath
+       transform="translate(20.637153,-24.438106)"><textPath
          xlink:href="#path26806"
          id="textPath28916"
          style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:5.29167px;font-family:Inter;-inkscape-font-specification:'Inter Semi-Bold';stroke-width:0.264583">1000' <tspan
