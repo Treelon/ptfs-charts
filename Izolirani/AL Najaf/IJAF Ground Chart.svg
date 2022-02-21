@@ -1,21 +1,21 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <svg
-   xmlns:dc="http://purl.org/dc/elements/1.1/"
-   xmlns:cc="http://creativecommons.org/ns#"
-   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
-   xmlns:svg="http://www.w3.org/2000/svg"
-   xmlns="http://www.w3.org/2000/svg"
-   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
-   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    inkscape:export-ydpi="218.93604"
    inkscape:export-xdpi="218.93604"
    sodipodi:docname="IJAF Ground Chart.svg"
-   inkscape:version="1.0 (4035a4fb49, 2020-05-01)"
+   inkscape:version="1.1.1 (3bf5ae0d25, 2021-09-20)"
    id="svg8"
    version="1.1"
    viewBox="0 0 210.00001 297"
    height="297mm"
-   width="210mm">
+   width="210mm"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:dc="http://purl.org/dc/elements/1.1/">
   <defs
      id="defs2">
     <marker
@@ -385,9 +385,9 @@
      inkscape:snap-midpoints="true"
      inkscape:window-maximized="1"
      inkscape:window-y="-8"
-     inkscape:window-x="-8"
-     inkscape:window-height="1377"
-     inkscape:window-width="2560"
+     inkscape:window-x="1912"
+     inkscape:window-height="1137"
+     inkscape:window-width="1920"
      inkscape:object-paths="true"
      inkscape:snap-nodes="true"
      inkscape:snap-intersection-paths="true"
@@ -397,17 +397,18 @@
      fit-margin-left="0"
      fit-margin-top="0"
      showgrid="false"
-     inkscape:current-layer="layer6"
+     inkscape:current-layer="layer5"
      inkscape:document-units="mm"
-     inkscape:cy="744.95235"
-     inkscape:cx="348.84239"
-     inkscape:zoom="1"
+     inkscape:cy="219.25"
+     inkscape:cx="399"
+     inkscape:zoom="2"
      inkscape:pageshadow="2"
      inkscape:pageopacity="0.0"
      borderopacity="1.0"
      bordercolor="#666666"
      pagecolor="#ffffff"
-     id="base">
+     id="base"
+     inkscape:pagecheckerboard="0">
     <inkscape:grid
        type="xygrid"
        id="grid4291" />
@@ -446,26 +447,6 @@
        height="274.42581"
        x="21.801685"
        y="19.261688" />
-    <path
-       sodipodi:nodetypes="cc"
-       id="path2703-5"
-       d="M 54.8385,19.261691 V 30.427083"
-       style="display:inline;opacity:1;fill:none;stroke:#000000;stroke-width:0.3;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
-    <path
-       style="display:inline;opacity:1;fill:none;stroke:#000000;stroke-width:0.3;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       d="M 87.875502,19.261691 V 30.427083"
-       id="path2705-4"
-       sodipodi:nodetypes="cc" />
-    <path
-       sodipodi:nodetypes="cc"
-       id="path2707-6"
-       d="M 120.91249,19.261691 V 30.427083"
-       style="display:inline;opacity:1;fill:none;stroke:#000000;stroke-width:0.3;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
-    <path
-       style="display:inline;opacity:1;fill:none;stroke:#000000;stroke-width:0.3;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       d="M 153.94948,19.261691 V 30.427083"
-       id="path2709-0"
-       sodipodi:nodetypes="cc" />
     <text
        id="text852"
        y="15.56819"
@@ -573,7 +554,86 @@
          id="tspan1330"
          x="95.940018"
          y="15.517743"
-         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:3.88056px;font-family:'Zilla Slab';-inkscape-font-specification:'Zilla Slab Bold';text-align:end;text-anchor:end;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264999;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1">24 Jan 21</tspan></text>
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:3.88056px;font-family:'Zilla Slab';-inkscape-font-specification:'Zilla Slab Bold';text-align:end;text-anchor:end;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264999;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1">30 Jan 22</tspan></text>
+    <path
+       style="display:inline;fill:none;stroke:#000000;stroke-width:0.3;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="M 62.468966,19.288137 V 30.453528"
+       id="path2703"
+       sodipodi:nodetypes="cc" />
+    <path
+       style="display:inline;fill:none;stroke:#000000;stroke-width:0.3;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="M 100.49711,19.288137 V 30.453528"
+       id="path2707"
+       sodipodi:nodetypes="cc" />
+    <path
+       sodipodi:nodetypes="cc"
+       id="path2709"
+       d="M 140.41328,19.288137 V 30.453528"
+       style="display:inline;fill:none;stroke:#000000;stroke-width:0.3;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:2.82223px;line-height:1.85;font-family:Inter;-inkscape-font-specification:'Inter Medium';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;display:inline;stroke-width:0.264583"
+       x="41.524776"
+       y="23.036652"
+       id="text1603-7-5-1"><tspan
+         sodipodi:role="line"
+         x="41.524776"
+         y="23.036652"
+         style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:2.82223px;font-family:Inter;-inkscape-font-specification:'Inter Medium';text-align:center;text-anchor:middle;stroke-width:0.264583"
+         id="tspan1601-2-5-5">D-ATIS</tspan><tspan
+         sodipodi:role="line"
+         x="41.524776"
+         y="29.122408"
+         style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:3.52778px;font-family:Inter;-inkscape-font-specification:'Inter Semi-Bold';text-align:center;text-anchor:middle;stroke-width:0.264583"
+         id="tspan7020-4">123.900</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:2.82223px;line-height:1.85;font-family:Inter;-inkscape-font-specification:'Inter Medium';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;display:inline;stroke-width:0.264583"
+       x="80.682983"
+       y="23.036652"
+       id="text4096"><tspan
+         sodipodi:role="line"
+         x="80.682983"
+         y="23.036652"
+         style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:2.82223px;font-family:Inter;-inkscape-font-specification:'Inter Medium';text-align:center;text-anchor:middle;stroke-width:0.264583"
+         id="tspan4092">AL NAJAF Ground</tspan><tspan
+         sodipodi:role="line"
+         x="80.682983"
+         y="29.122408"
+         style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:3.52778px;font-family:Inter;-inkscape-font-specification:'Inter Semi-Bold';text-align:center;text-anchor:middle;stroke-width:0.264583"
+         id="tspan4094">121.700</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:2.82223px;line-height:1.85;font-family:Inter;-inkscape-font-specification:'Inter Medium';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;display:inline;stroke-width:0.264583"
+       x="120.37035"
+       y="23.036652"
+       id="text7491"><tspan
+         sodipodi:role="line"
+         x="120.37035"
+         y="23.036652"
+         style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:2.82223px;font-family:Inter;-inkscape-font-specification:'Inter Medium';text-align:center;text-anchor:middle;stroke-width:0.264583"
+         id="tspan7487">AL NAJAF Tower</tspan><tspan
+         sodipodi:role="line"
+         x="120.37035"
+         y="29.122408"
+         style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:3.52778px;font-family:Inter;-inkscape-font-specification:'Inter Semi-Bold';text-align:center;text-anchor:middle;stroke-width:0.264583"
+         id="tspan7489">119.100</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:2.82223px;line-height:1.85;font-family:Inter;-inkscape-font-specification:'Inter Medium';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;display:inline;stroke-width:0.264583"
+       x="161.64548"
+       y="23.036652"
+       id="text7497"><tspan
+         sodipodi:role="line"
+         x="161.64548"
+         y="23.036652"
+         style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:2.82223px;font-family:Inter;-inkscape-font-specification:'Inter Medium';text-align:center;text-anchor:middle;stroke-width:0.264583"
+         id="tspan7493">AL NAJAF Approach</tspan><tspan
+         sodipodi:role="line"
+         x="161.64548"
+         y="29.122408"
+         style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:3.52778px;font-family:Inter;-inkscape-font-specification:'Inter Semi-Bold';text-align:center;text-anchor:middle;stroke-width:0.264583"
+         id="tspan7495">120.200</tspan></text>
   </g>
   <g
      transform="translate(-402.56634,172.37816)"

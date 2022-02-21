@@ -5,7 +5,7 @@
    viewBox="0 0 210.00001 297"
    version="1.1"
    id="svg8"
-   inkscape:version="1.1 (c68e22c387, 2021-05-23)"
+   inkscape:version="1.1.1 (3bf5ae0d25, 2021-09-20)"
    sodipodi:docname="IZOL Ground Chart.svg"
    inkscape:export-xdpi="218.93604"
    inkscape:export-ydpi="218.93604"
@@ -18,6 +18,12 @@
    xmlns:dc="http://purl.org/dc/elements/1.1/">
   <defs
      id="defs2">
+    <rect
+       x="101.82337"
+       y="-93.338086"
+       width="43.840616"
+       height="44.547723"
+       id="rect9119" />
     <marker
        inkscape:stockid="Arrow1Lend"
        orient="auto"
@@ -716,11 +722,11 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="4.0000004"
-     inkscape:cx="631.62494"
-     inkscape:cy="476.37495"
+     inkscape:zoom="1.4142137"
+     inkscape:cx="344.36097"
+     inkscape:cy="222.38506"
      inkscape:document-units="mm"
-     inkscape:current-layer="layer6"
+     inkscape:current-layer="layer5"
      showgrid="false"
      fit-margin-top="0"
      fit-margin-left="0"
@@ -731,8 +737,8 @@
      inkscape:snap-nodes="true"
      inkscape:object-paths="true"
      inkscape:window-width="1920"
-     inkscape:window-height="1017"
-     inkscape:window-x="-8"
+     inkscape:window-height="1137"
+     inkscape:window-x="1912"
      inkscape:window-y="-8"
      inkscape:window-maximized="1"
      inkscape:snap-midpoints="true"
@@ -905,7 +911,7 @@
          y="15.517744"
          x="95.940025"
          id="tspan1330"
-         sodipodi:role="line">24 Jan 21</tspan></text>
+         sodipodi:role="line">30 Jan 22</tspan></text>
   </g>
   <g
      inkscape:groupmode="layer"
@@ -2117,5 +2123,90 @@
          y="184.08382"
          style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:3.52778px;font-family:Metropolis;-inkscape-font-specification:'Metropolis, Medium';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;text-anchor:middle;stroke-width:0.264583"
          id="tspan1546">Station</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:2.82223px;line-height:1.85;font-family:Inter;-inkscape-font-specification:'Inter Medium';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;display:inline;stroke-width:0.264583"
+       x="441.44415"
+       y="-149.30121"
+       id="text1603-7-5-1"><tspan
+         sodipodi:role="line"
+         x="441.44415"
+         y="-149.30121"
+         style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:2.82223px;font-family:Inter;-inkscape-font-specification:'Inter Medium';text-align:center;text-anchor:middle;stroke-width:0.264583"
+         id="tspan1601-2-5-5">D-ATIS</tspan><tspan
+         sodipodi:role="line"
+         x="441.44415"
+         y="-143.21545"
+         style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:3.52778px;font-family:Inter;-inkscape-font-specification:'Inter Semi-Bold';text-align:center;text-anchor:middle;stroke-width:0.264583"
+         id="tspan7020-4">127.800</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:2.82223px;line-height:1.85;font-family:Inter;-inkscape-font-specification:'Inter Medium';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;display:inline;stroke-width:0.264583"
+       x="473.72327"
+       y="-149.30121"
+       id="text2596"><tspan
+         sodipodi:role="line"
+         x="473.72327"
+         y="-149.30121"
+         style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:2.82223px;font-family:Inter;-inkscape-font-specification:'Inter Medium';text-align:center;text-anchor:middle;stroke-width:0.264583"
+         id="tspan2592">IZOLIRANI Delivery</tspan><tspan
+         sodipodi:role="line"
+         x="473.72327"
+         y="-143.21545"
+         style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:3.52778px;font-family:Inter;-inkscape-font-specification:'Inter Semi-Bold';text-align:center;text-anchor:middle;stroke-width:0.264583"
+         id="tspan2594">128.200</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:2.82223px;line-height:1.85;font-family:Inter;-inkscape-font-specification:'Inter Medium';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;display:inline;stroke-width:0.264583"
+       x="507.06073"
+       y="-149.30121"
+       id="text2602"><tspan
+         sodipodi:role="line"
+         x="507.06073"
+         y="-149.30121"
+         style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:2.82223px;font-family:Inter;-inkscape-font-specification:'Inter Medium';text-align:center;text-anchor:middle;stroke-width:0.264583"
+         id="tspan2598">IZOLIRANI Ground</tspan><tspan
+         sodipodi:role="line"
+         x="507.06073"
+         y="-143.21545"
+         style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:3.52778px;font-family:Inter;-inkscape-font-specification:'Inter Semi-Bold';text-align:center;text-anchor:middle;stroke-width:0.264583"
+         id="tspan2600">121.900</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:2.82223px;line-height:1.85;font-family:Inter;-inkscape-font-specification:'Inter Medium';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;display:inline;stroke-width:0.264583"
+       x="540.39832"
+       y="-149.30121"
+       id="text2608"><tspan
+         sodipodi:role="line"
+         x="540.39832"
+         y="-149.30121"
+         style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:2.82223px;font-family:Inter;-inkscape-font-specification:'Inter Medium';text-align:center;text-anchor:middle;stroke-width:0.264583"
+         id="tspan2604">IZOLIRANI Tower</tspan><tspan
+         sodipodi:role="line"
+         x="540.39832"
+         y="-143.21545"
+         style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:3.52778px;font-family:Inter;-inkscape-font-specification:'Inter Semi-Bold';text-align:center;text-anchor:middle;stroke-width:0.264583"
+         id="tspan2606">118.700</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:2.82223px;line-height:1.85;font-family:Inter;-inkscape-font-specification:'Inter Medium';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;display:inline;stroke-width:0.264583"
+       x="573.20679"
+       y="-149.30121"
+       id="text2614"><tspan
+         sodipodi:role="line"
+         x="573.20679"
+         y="-149.30121"
+         style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:2.82223px;font-family:Inter;-inkscape-font-specification:'Inter Medium';text-align:center;text-anchor:middle;stroke-width:0.264583"
+         id="tspan2610">IZOLIRANI Departure</tspan><tspan
+         sodipodi:role="line"
+         x="573.20679"
+         y="-143.21545"
+         style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:3.52778px;font-family:Inter;-inkscape-font-specification:'Inter Semi-Bold';text-align:center;text-anchor:middle;stroke-width:0.264583"
+         id="tspan2612">124.300</tspan></text>
+    <text
+       xml:space="preserve"
+       transform="matrix(0.26458333,0,0,0.26458333,402.56634,-172.37816)"
+       id="text9117"
+       style="line-height:1.25;font-family:sans-serif;font-size:16px;text-align:center;white-space:pre;shape-inside:url(#rect9119)" />
   </g>
 </svg>
