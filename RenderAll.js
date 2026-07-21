@@ -3,9 +3,8 @@
 // * files into png files, and place them in a newly created __Results        *
 // * folder. It requires Node.js, Inkscape and ImageMagick to be installed.   *
 // * Put the path to these programs in the settings object below. This has    *
-// * only been tested with Inkscape 1.1 and ImageMagick 7.1.0 on a Windows 10 *
-// * system. This will likely be replaced with some sort of continuous        *
-// * integration at a later point. For now, run this with `node RenderAll.js` *
+// * only been tested with Inkscape 1.4.2 and ImageMagick 7.1.2 on a Windows  *
+// * 11 system. Run this with `node RenderAll.js`                             *
 // ****************************************************************************
 
 // @ts-check
@@ -13,8 +12,8 @@
 
 // Settings
 const settings = {
-    inkscapeCommand: "C:\\Program Files\\Inkscape\\Bin\\Inkscapecom",
-    magickCommand: "C:\\Program Files\\ImageMagick-7.1.1-Q16-HDRI\\magick.exe",
+    inkscapeCommand: "C:\\Program Files\\Inkscape\\Bin\\Inkscape.com",
+    magickCommand: "magick",
     configs: [
         {
             dpi: 192,
@@ -25,7 +24,7 @@ const settings = {
 
 ///////////////////////////////////////////////////////////////////////////////
 
-const { spawn, exec } = require("child_process");
+const { spawn, exec, ChildProcess } = require("child_process");
 const { statSync, mkdirSync, readdirSync } = require("fs");
 const { extname } = require("path");
 const { configs, inkscapeCommand, magickCommand } = settings;
@@ -60,7 +59,9 @@ const filter = (file) =>
 // * Get the paths of all charts *
 // *******************************
 
+/** @type {string[]} */
 const paths = [];
+/** @type {string[]} */
 const charts = [];
 
 // Islands
@@ -98,7 +99,8 @@ const actions =
                 exportDir}/light/${charts[i].split(".")[0]
             }.png; ` +
             "export-do; " +
-            "file-close;"
+            "file-close; "+
+            "system-data-directory; " // gives us something to print to keep track of progress
         ).join("")
     ).join("");
 
@@ -117,15 +119,11 @@ const Inkscape = spawn(
 // get the percentage complete from the amount of charts times the amount of
 // configs.
 
-Inkscape.stdout.pipe(process.stdout);
-Inkscape.stderr.pipe(process.stderr);
-
-let childout = ""
+let numerator = 0
 const denominator = charts.length * configs.length;
 
-Inkscape.stderr.on("data", chunk => {
-    childout += chunk;
-    const numerator = childout.match(/Background RRGGBBAA/g)?.length || 0;
+Inkscape.stdout.on("data", chunk => {
+    numerator++;
     const percent = Math.round(numerator / denominator * 100);
     process.stdout.write(`\r\x1b[33m${percent}%\x1b[0m`);
 });
@@ -133,6 +131,7 @@ Inkscape.stderr.on("data", chunk => {
 // ***********
 // * On exit *
 // ***********
+/** @type {ChildProcess} */
 let Magick;
 
 Inkscape.on("exit", () => {
@@ -177,8 +176,8 @@ Inkscape.on("exit", () => {
         );
 
         const execStr = configs.map(({ exportDir }) => 
-            `"${magickCommand}" convert -modulate 100,100,0 -channel RGB ` +
-            `-negate "./${exportDir}/light/*.png" -verbose -set ` +
+            `"${magickCommand}" "./${exportDir}/light/*.png" -modulate 100,100,0 -channel RGB ` +
+            `-negate -verbose -set ` +
             `filename:original %t "./${exportDir}/dark/%[filename:original]` +
             '.png"'
         ).join(" & ");
@@ -186,7 +185,7 @@ Inkscape.on("exit", () => {
         Magick = exec(execStr);
 
         let childout = "";
-        Magick.stdout.on("data", chunk => {
+        Magick.stdout?.on("data", chunk => {
             childout += chunk;
             const numerator = childout.match(/sRGB/g)?.length || 0;
             const percent = Math.round(numerator / denominator * 100);
@@ -194,7 +193,7 @@ Inkscape.on("exit", () => {
         });
 
         Magick.on("exit", () => {
-            console.log("Press any key to exit . . .");
+            console.log("\nPress any key to exit . . .");
             anyKeyExit = true;
         });
     };

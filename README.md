@@ -28,6 +28,6 @@ These fonts and their licenses can be located in the [_Fonts](_Fonts) directory 
 Alternatively, these fonts can be installed from these websites:
 
 - Zilla Slab: https://fonts.google.com/specimen/Zilla+Slab
-- Zilla Slab Highlight: https://fonts.google.com/specimen/Zilla+Slab+Highligh
+- Zilla Slab Highlight: https://fonts.google.com/specimen/Zilla+Slab+Highlight
 - Metropolis: https://fontsarena.com/metropolis-by-chris-simpson/
 - Inter: https://fonts.google.com/specimen/Inter
